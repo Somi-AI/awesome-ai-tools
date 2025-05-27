@@ -22,29 +22,30 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [No Code/Low Code](#no-code-low-code)
   - [Website and Design](#websites-and-design)
 
-- [AI Business Tools](#https://somi.ai/categories/ai-business-tools)
-  - [AI Finance](#https://somi.ai/categories/finance)
-  - [AI Customer Support](#https://somi.ai/categories/customer-support)
-  - [AI SEO Tools](#https://somi.ai/categories/seo)
-  - [AI Human Resources](#https://somi.ai/categories/human-resources)
-  - [AI Marketing Tools](#https://somi.ai/categories/marketing)
-  - [AI Project Management](#https://somi.ai/categories/project-management)
-  - [AI Social Media](#https://somi.ai/categories/social-media)
-  - [AI Real Estate](#https://somi.ai/categories/real-estate)
+
+- [AI Business Tools](#ai-business-tools)
+  - [AI Finance](#ai-finance)
+  - [AI Customer Support](#ai-customer-support)
+  - [AI SEO Tools](#ai-seo-tools)
+  - [AI Human Resources](#ai-human-resources)
+  - [AI Marketing Tools](#ai-marketing-tools)
+  - [AI Project Management](#ai-project-management)
+  - [AI Social Media](#ai-social-media)
+  - [AI Real Estate](#ai-real-estate)
 
 
-- [AI Image Tools](#https://somi.ai/categories/ai-image-tools)
-  - [AI Image Generators](#https://somi.ai/categories/image-generators)
-  - [AI Image Editing](#https://somi.ai/categories/image-editing)
-  - [AI Design Generators](#https://somi.ai/categories/design-generators)
-  - [AI Text-to-Image](#https://somi.ai/categories/text-to-image)
+- [AI Image Tools](#ai-image-tools)
+  - [Image Generators](#image-generators)
+  - [Image Editing](#image-editing)
+  - [Design Generators](#design-generators)
+  - [Text-to-Image](#text-to-image)
 
 
-- [AI Video Tools](#https://somi.ai/categories/ai-video-tools)
-  - [AI Video Generators](#https://somi.ai/categories/video-generators)
-  - [AI Video Editors](#https://somi.ai/categories/video-editing)
-  - [AI Text-to-Video](#https://somi.ai/categories/text-to-video)
-  - [AI Video Enhancer](#https://somi.ai/categories/video-enhancer)
+- [AI Video Tools](#ai-video-tools)
+  - [Video Generators](#video-generators)
+  - [Video Editors](#video-editing)
+  - [Text-to-Video](#text-to-video)
+  - [Video Enhancer](#video-enhancer)
  
 ## AI Developer Tools
 
