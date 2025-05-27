@@ -66,3 +66,20 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [CodeGPT](https://somi.ai/products/code-gpt) - AI-powered coding assistant. [![link]](https://codegpt.co/)
 
     
+### LLM Models
+
+- [WorkflowAI](https://somi.ai/products/workflow-ai) - Open-source platform for teams to build and iterate on AI features together. [![link]](https://workflowai.com/)
+- [Grok AI](https://somi.ai/products/groq) - Open-source platform for teams to build and iterate on AI features together.[![link]](https://groq.com/)
+- [Llama](https://somi.ai/products/llama) - The open-source AI models you can fine-tune, distill and deploy anywhere. [![link]](https://www.llama.com/)
+- [Dify](https://somi.ai/products/dify) - An open-source LLM app development platform. [![link]](https://dify.ai/)
+- [Sora By OpenAI](https://somi.ai/products/sora-by-open-ai) - Sora is a text-to-video model developed by OpenAI. [![link]](https://openai.com/sora/)
+- [FlowiseAI](https://somi.ai/products/flowise-ai) - Low-code LLM apps builder. [![link]](https://flowiseai.com/)
+- [Letta](https://somi.ai/products/letta) - Build and deploy AI agents that learn. [![link]](https://www.letta.com/)
+- [DeepSeek](https://somi.ai/products/deep-seek) - Build and deploy AI agents that learn. [![link]](https://www.deepseek.com/)
+- [Langchain](https://somi.ai/products/langchain) - Build context-aware, reasoning applications. [![link]](https://www.langchain.com/)
+- [Questflow](https://somi.ai/products/questflow) - The orchestration layer for the multi-agent economy. [![link]](https://www.questflow.ai/)
+- [Coframe](https://somi.ai/products/coframe) - Optimize and personalize your digital experiences, at scale. [![link]](https://www.coframe.com/)
+- [Kimi AI](https://somi.ai/products/kimi-ai) - Built by moonshot AI to empower everyone to be superhuman. [![link]](https://kimi.ai/)
+- [MiniMax](https://somi.ai/products/mini-max) - Our mission is to build a world where intelligence thrives with everyone. [![link]](https://www.minimax.io/)
+- [Firecrawl](https://somi.ai/products/firecrawl) - Turn websites into LLM-ready data. [![link]](https://www.firecrawl.dev/)
+- [DigitalOcean](https://somi.ai/products/digital-ocean) - The simplest scalable cloud. [![link]](https://www.digitalocean.com/)
