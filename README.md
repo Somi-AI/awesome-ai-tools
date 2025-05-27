@@ -1,14 +1,11 @@
 # awesome-ai-tools
-An awesome list of AI tools to help you automate, optimize, and accelerate your daily workflows.
-
-Feel free to contribute and also submit your AI tools on Somi AI for free
-
 
 Welcome to Awesome AI Tools — a curated directory of the best generative AI tools, large language models (LLMs), and automation products available today. 
 Whether you're a developer, founder, creator, or simply curious about the latest in AI, 
 This list is designed to help you discover powerful tools to boost productivity, streamline workflows, and unlock new possibilities.
 
-Have an AI product you’re building or using? Share it with us in the comments or submit it directly to Somi AI — it's free! 
+Have an AI product you’re building or using? Share it with us in the comments or submit it directly to [Somi AI](https://somi.ai/) for free
+
 Let’s build a resource that empowers the community to make smarter, faster, and more AI-powered decisions.
 
 
@@ -34,3 +31,10 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [AI Project Management](#https://somi.ai/categories/project-management)
   - [AI Social Media](#https://somi.ai/categories/social-media)
   - [AI Real Estate](#https://somi.ai/categories/real-estate)
+
+
+- [AI Image Tools](#https://somi.ai/categories/ai-image-tools)
+  - [AI Image Generators](#https://somi.ai/categories/image-generators)
+  - [AI Image Editing](#https://somi.ai/categories/image-editing)
+  - [AI Design Generators](#https://somi.ai/categories/design-generators)
+  - [AI Text-to-Image](#https://somi.ai/categories/text-to-image)
