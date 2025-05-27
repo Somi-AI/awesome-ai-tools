@@ -4,7 +4,7 @@ Welcome to Awesome AI Tools — a curated directory of the best generative AI to
 Whether you're a developer, founder, creator, or simply curious about the latest in AI, 
 This list is designed to help you discover powerful tools to boost productivity, streamline workflows, and unlock new possibilities.
 
-Have an AI product you’re building or using? Share it with us in the comments or submit it directly to [Somi AI](https://somi.ai/) for free
+Have an AI product you’re building or using? Please share it with us in the comments or submit it directly to [Somi AI](https://somi.ai/) for free
 
 Let’s build a resource that empowers the community to make smarter, faster, and more AI-powered decisions.
 
@@ -38,3 +38,18 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [AI Image Editing](#https://somi.ai/categories/image-editing)
   - [AI Design Generators](#https://somi.ai/categories/design-generators)
   - [AI Text-to-Image](#https://somi.ai/categories/text-to-image)
+
+
+- [AI Video Tools](#https://somi.ai/categories/ai-video-tools)
+  - [AI Video Generators](#https://somi.ai/categories/video-generators)
+  - [AI Video Editors](#https://somi.ai/categories/video-editing)
+  - [AI Text-to-Video](#https://somi.ai/categories/text-to-video)
+  - [AI Video Enhancer](#https://somi.ai/categories/video-enhancer)
+ 
+## AI Developer Tools
+
+### AI Coding Assistants
+- [CodeRabbit](https://somi.ai/products/code-rabbit) - Supercharge your dev team with AI code reviews. [![link]](https://www.coderabbit.ai/)
+
+
+    
