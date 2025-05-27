@@ -23,3 +23,14 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [API Platform](#https://somi.ai/categories/api-platform)
   - [No Code/Low Code](#https://somi.ai/categories/no-code-low-code)
   - [Website and Design](#https://somi.ai/categories/websites-and-design)
+
+
+- [AI Business Tools](#https://somi.ai/categories/ai-business-tools)
+  - [AI Finance](#https://somi.ai/categories/finance)
+  - [AI Customer Support](#https://somi.ai/categories/customer-support)
+  - [AI SEO Tools](#https://somi.ai/categories/seo)
+  - [AI Human Resources](#https://somi.ai/categories/human-resources)
+  - [AI Marketing Tools](#https://somi.ai/categories/marketing)
+  - [AI Project Management](#https://somi.ai/categories/project-management)
+  - [AI Social Media](#https://somi.ai/categories/social-media)
+  - [AI Real Estate](#https://somi.ai/categories/real-estate)
