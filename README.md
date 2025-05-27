@@ -12,7 +12,14 @@ Have an AI product you’re building or using? Share it with us in the comments 
 Let’s build a resource that empowers the community to make smarter, faster, and more AI-powered decisions.
 
 
-Content 
-AI Productivity Tools
-AI Image Tools 
-[Midjourney](https://somi.ai/products/midjourney) - Turn words into art instantly [![link]](https://www.midjourney.com/)
+
+## Contents
+
+- [AI Developer Tools](#https://somi.ai/categories/ai-developer-tools)
+  - [AI Coding Assistants](#https://somi.ai/categories/code-assistants)
+  - [LLM Models](#https://somi.ai/categories/llm-models)
+  - [AI developer Tools](#https://somi.ai/categories/developer-tools)
+  - [SQL](#https://somi.ai/categories/sql)
+  - [API Platform](#https://somi.ai/categories/api-platform)
+  - [No Code/Low Code](#https://somi.ai/categories/no-code-low-code)
+  - [Website and Design](#https://somi.ai/categories/websites-and-design)
