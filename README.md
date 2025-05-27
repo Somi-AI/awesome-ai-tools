@@ -10,17 +10,17 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 
 
+
 ## Contents
 
-- [AI Developer Tools](#https://somi.ai/categories/ai-developer-tools)
-  - [AI Coding Assistants](#https://somi.ai/categories/code-assistants)
-  - [LLM Models](#https://somi.ai/categories/llm-models)
-  - [AI developer Tools](#https://somi.ai/categories/developer-tools)
-  - [SQL](#https://somi.ai/categories/sql)
-  - [API Platform](#https://somi.ai/categories/api-platform)
-  - [No Code/Low Code](#https://somi.ai/categories/no-code-low-code)
-  - [Website and Design](#https://somi.ai/categories/websites-and-design)
-
+- [AI Developer Tools](#ai-developer-tools)
+  - [AI Coding Assistants](#ai-code-assistants)
+  - [LLM Models](#llm-models)
+  - [AI developer Tools](#ai-developer-tools)
+  - [SQL](#sql)
+  - [API Platform](#api-platform)
+  - [No Code/Low Code](#no-code-low-code)
+  - [Website and Design](#websites-and-design)
 
 - [AI Business Tools](#https://somi.ai/categories/ai-business-tools)
   - [AI Finance](#https://somi.ai/categories/finance)
