@@ -55,7 +55,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [JetBrains](https://somi.ai/products/jet-brains) - The world's leading provider of professional development tools. [![link]](https://www.jetbrains.com/)
 - [Amazon Q Developer](https://somi.ai/products/amazon-q-developer) - Your AI code assistant. [![link]](https://aws.amazon.com/q/developer/build/)
 - [figstack](https://somi.ai/products/figstack) - Supercharges your ability to read and write code across languages. [![link]](https://www.figstack.com/)
-- [Codeium](https://aitools.inc/tools/code-snippets-ai) - AI-powered autocomplete and chat codebase & doc. [![link]](https://windsurf.com/context)
+- [Codeium](https://somi.ai/products/codeium) - AI-powered autocomplete and chat codebase & doc. [![link]](https://windsurf.com/context)
 - [GitHub](https://somi.ai/products/git-hub) - Automate your workflow from idea to production. [![link]](https://github.com/)
 - [Qodo](https://somi.ai/products/qodo) - Agentic AI for testing, reviewing, and writing code. [![link]](https://www.qodo.ai/)
 - [Blackbox AI](https://somi.ai/products/blackbox-ai) - AI coding assistant. [![link]](https://www.blackbox.ai//)
