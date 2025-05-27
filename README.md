@@ -51,6 +51,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 ### AI Coding Assistants
 - [CodeRabbit](https://somi.ai/products/code-rabbit) - Supercharge your dev team with AI code reviews. [![link]](https://www.coderabbit.ai/)
-
+- [CodeGeeX](https://somi.ai/products/code-gee-x) - AI Assistant for developers. [![link]](https://codegeex.cn/en-US)
+- [JetBrains](https://somi.ai/products/jet-brains) - The world's leading provider of professional development tools. [![link]](https://www.jetbrains.com/)
+- [Amazon Q Developer](https://somi.ai/products/amazon-q-developer) - Your AI code assistant. [![link]](https://aws.amazon.com/q/developer/build/)
 
     
