@@ -1,4 +1,4 @@
-# awesome-ai-tools
+# Awesome-ai-tools
 
 Welcome to Awesome AI Tools — a curated directory of the best generative AI tools, large language models (LLMs), and automation products available today. 
 Whether you're a developer, founder, creator, or simply curious about the latest in AI, 
@@ -58,5 +58,11 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Codeium](https://aitools.inc/tools/code-snippets-ai) - AI-powered autocomplete and chat codebase & doc. [![link]](https://windsurf.com/context)
 - [GitHub](https://somi.ai/products/git-hub) - Automate your workflow from idea to production. [![link]](https://github.com/)
 - [Qodo](https://somi.ai/products/qodo) - Agentic AI for testing, reviewing, and writing code. [![link]](https://www.qodo.ai/)
+- [Blackbox AI](https://somi.ai/products/blackbox-ai) - AI coding assistant. [![link]](https://www.blackbox.ai//)
+- [Phind.com](https://somi.ai/products/phind-com) - AI answer engine for complex questions. [![link]](https://www.phind.com//)
+- [Windsurf](https://somi.ai/products/windsurf) - AI-powered IDE (Integrated Development Environment). [![link]](https://windsurf.com/)
+- [snappify](https://somi.ai/products/snappify) - A powerful design tool for developers. [![link]](https://snappify.com/)
+- [Cursor](https://somi.ai/products/cursor) - The AI code editor. [![link]](https://www.cursor.com/)
+- [CodeGPT](https://somi.ai/products/code-gpt) - AI-powered coding assistant. [![link]](https://codegpt.co/)
 
     
