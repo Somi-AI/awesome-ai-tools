@@ -54,5 +54,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [CodeGeeX](https://somi.ai/products/code-gee-x) - AI Assistant for developers. [![link]](https://codegeex.cn/en-US)
 - [JetBrains](https://somi.ai/products/jet-brains) - The world's leading provider of professional development tools. [![link]](https://www.jetbrains.com/)
 - [Amazon Q Developer](https://somi.ai/products/amazon-q-developer) - Your AI code assistant. [![link]](https://aws.amazon.com/q/developer/build/)
+- [figstack](https://somi.ai/products/figstack) - Supercharges your ability to read and write code across languages. [![link]](https://www.figstack.com/)
+- [Codeium](https://aitools.inc/tools/code-snippets-ai) - AI-powered autocomplete and chat codebase & doc. [![link]](https://windsurf.com/context)
+- [GitHub](https://aitools.inc/tools/workik-ai) - Automate your workflow from idea to production. [![link]](https://github.com/)
 
     
