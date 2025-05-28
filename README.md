@@ -83,6 +83,36 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [MiniMax](https://somi.ai/products/mini-max) - Our mission is to build a world where intelligence thrives with everyone. [![link]](https://www.minimax.io/)
 - [Firecrawl](https://somi.ai/products/firecrawl) - Turn websites into LLM-ready data. [![link]](https://www.firecrawl.dev/)
 - [DigitalOcean](https://somi.ai/products/digital-ocean) - The simplest scalable cloud. [![link]](https://www.digitalocean.com/)
+
+
+### AI Developer Tools
+
+- [n8n](https://somi.ai/products/n8n) - Flexible AI workflow automation for technical teams. [![link]](https://n8n.partnerlinks.io/somi-ai)
+- [Zapier](https://somi.ai/products/zapier) - Get your software working together, automatically. [![link]](https://zapier.com/)
+- [Pika Style](https://somi.ai/products/pika-style) - Create beautiful screenshots and mockups effortlessly. [![link]](https://pika.style/?via=somi-ai)
+- [Latencode](https://somi.ai/products/latenode-com) - Low-code automation platform. [![link]](https://latenode.com/?linkId=lp_474051&sourceId=somi-ai&tenantId=latenode)
+- [Jotform](https://somi.ai/products/jotform) - Low-code automation platform. [![link]](https://www.jotform.com/ai/agents/?partner=somi-ai-kNITIvwBO8)
+- [MCPify](https://somi.ai/products/mc-pify) - Create your MCP server—no code needed. [![link]](https://mcpify.ai/)
+- [Rork](https://somi.ai/products/rork) - Vibe code a mobile app in minutes. [![link]](https://rork.com/)
+- [MindStudio](https://somi.ai/products/mind-studio) - The fastest way to build AI-powered apps for your team. [![link]](https://www.mindstudio.ai/)
+- [Wordware](https://somi.ai/products/mind-studio) - AI Agent orchestration simplified. [![link]](https://www.wordware.ai/)
+- [FlowiseAI](https://somi.ai/products/flowise-ai) - Low-code LLM apps builder. [![link]](https://flowiseai.com/)
+- [Dora](https://somi.ai/products/dora) - Ship 3D animated sites without code. [![link]](https://www.dora.run/)
+- [Lovable](https://somi.ai/products/dora) - Prompt full-stack apps in minutes. [![link]](https://lovable.dev/?via=somi-ai)
+- [Speak AI](https://somi.ai/products/speak-ai) - Transformational technology for your awareness, well-being and productivity. [![link]](https://speakai.co/)
+- [Webflow](https://somi.ai/products/webflow) - Build, manage, and optimize your websites. [![link]](https://webflow.com/)
+- [Entelligence AI](https://somi.ai/products/entelligence-ai) - Building engineering intelligence. [![link]](https://www.entelligence.ai/)
+- [FormWise AI](https://somi.ai/products/form-wise-ai) - Build GPT powered AI tools for your end users. [![link]](https://www.formwise.ai/)
+- [Creatie](https://somi.ai/products/creatie) - One-stop product design tool amplified by AI. [![link]](https://creatie.ai/)
+- [Wegic](https://somi.ai/products/wegic) - Your AI designer, developer, and manager. [![link]](https://wegic.ai/)
+- [Activepieces](https://somi.ai/products/activepieces) - Open source business automation software. [![link]](https://www.activepieces.com/)
+- [MarsX.dev](https://somi.ai/products/mars-x-dev) - An open source AI-powered lowcode platform with microapps, using English+JS. [![link]](https://marsx.dev/)
+- [CustomGPT.ai](https://somi.ai/products/custom-gpt-ai) - An open source AI-powered lowcode platform with microapps, using English+JS. [![link]](https://customgpt.ai/?fpr=rita13)
+- [Monday](https://somi.ai/products/monday-com) - An open source AI-powered lowcode platform with microapps, using English+JS. [![link]](https://monday.com/)
+- [Firecrawl](https://somi.ai/products/monday-com) - Turn websites into LLM-ready data. [![link]](https://www.firecrawl.dev/)
+- [Make](https://somi.ai/products/make) - Turn websites into LLM-ready data. [![link]](https://www.make.com/en/register?pc=somiai)
+- [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://www.make.com/en/register?pc=somiai)
+- 
 - 
 ### AI SQL Tools
 
