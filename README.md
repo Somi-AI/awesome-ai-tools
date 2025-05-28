@@ -90,7 +90,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [n8n](https://somi.ai/products/n8n) - Flexible AI workflow automation for technical teams. [![link]](https://n8n.partnerlinks.io/somi-ai)
 - [Zapier](https://somi.ai/products/zapier) - Get your software working together, automatically. [![link]](https://zapier.com/)
 - [Pika Style](https://somi.ai/products/pika-style) - Create beautiful screenshots and mockups effortlessly. [![link]](https://pika.style/?via=somi-ai)
-- [Latencode](https://somi.ai/products/latenode-com) - Low-code automation platform. [![link]](https://latenode.com/?linkId=lp_474051&sourceId=somi-ai&tenantId=latenode)
+- [Latencode](https://somi.ai/products/latenode/) - Low-code automation platform. [![link]](https://latenode.com/?linkId=lp_474051&sourceId=somi-ai&tenantId=latenode)
 - [Jotform](https://somi.ai/products/jotform) - Low-code automation platform. [![link]](https://www.jotform.com/ai/agents/?partner=somi-ai-kNITIvwBO8)
 - [MCPify](https://somi.ai/products/mc-pify) - Create your MCP server—no code needed. [![link]](https://mcpify.ai/)
 - [Rork](https://somi.ai/products/rork) - Vibe code a mobile app in minutes. [![link]](https://rork.com/)
