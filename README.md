@@ -83,3 +83,11 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [MiniMax](https://somi.ai/products/mini-max) - Our mission is to build a world where intelligence thrives with everyone. [![link]](https://www.minimax.io/)
 - [Firecrawl](https://somi.ai/products/firecrawl) - Turn websites into LLM-ready data. [![link]](https://www.firecrawl.dev/)
 - [DigitalOcean](https://somi.ai/products/digital-ocean) - The simplest scalable cloud. [![link]](https://www.digitalocean.com/)
+- 
+### AI SQL Tools
+
+- [AI2sql](https://somi.ai/products/ai-2sql-io) - Boost team productivity with AI-powered SQL generation.[![link]](https://ai2sql.io/)
+- [BlazeSQL](https://somi.ai/products/blaze-sql) - Your AI Assistant for data analysis. [![link]](https://www.blazesql.com/)
+- [SQLAI.AI](https://somi.ai/products/sqlai-ai/) -Generate, optimize, fix, simplify, explain SQL queries and much more. [![link]](https://www.sqlai.ai/)
+- [AI Query](https://somi.ai/products/ai-query) - Generate SQL queries with AI in seconds. [![link]](https://aiquery.co/)
+
