@@ -111,8 +111,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Monday](https://somi.ai/products/monday-com) - An open source AI-powered lowcode platform with microapps, using English+JS. [![link]](https://monday.com/)
 - [Firecrawl](https://somi.ai/products/monday-com) - Turn websites into LLM-ready data. [![link]](https://www.firecrawl.dev/)
 - [Make](https://somi.ai/products/make) - Turn websites into LLM-ready data. [![link]](https://www.make.com/en/register?pc=somiai)
-- [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. (https://bubble.pxf.io/RGKW1y)
-  
+- [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://bubble.pxf.io/RGKW1y)
+
 
 ### AI SQL Tools
 
