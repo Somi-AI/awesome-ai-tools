@@ -85,7 +85,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [DigitalOcean](https://somi.ai/products/digital-ocean) - The simplest scalable cloud. [![link]](https://www.digitalocean.com/)
 
 
-### AI Developer Tools
+### No Code/Low Code
 
 - [n8n](https://somi.ai/products/n8n) - Flexible AI workflow automation for technical teams. [![link]](https://n8n.partnerlinks.io/somi-ai)
 - [Zapier](https://somi.ai/products/zapier) - Get your software working together, automatically. [![link]](https://zapier.com/)
@@ -111,9 +111,9 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Monday](https://somi.ai/products/monday-com) - An open source AI-powered lowcode platform with microapps, using English+JS. [![link]](https://monday.com/)
 - [Firecrawl](https://somi.ai/products/monday-com) - Turn websites into LLM-ready data. [![link]](https://www.firecrawl.dev/)
 - [Make](https://somi.ai/products/make) - Turn websites into LLM-ready data. [![link]](https://www.make.com/en/register?pc=somiai)
-- [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://www.make.com/en/register?pc=somiai)
-- 
-- 
+- [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://bubble.pxf.io/RGKW1y)
+  
+
 ### AI SQL Tools
 
 - [AI2sql](https://somi.ai/products/ai-2sql-io) - Boost team productivity with AI-powered SQL generation.[![link]](https://ai2sql.io/)
