@@ -13,7 +13,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 ## Contents
 
-- [AI Developer Tools](#ai-developer-tools)
+- [AI Code Tools](#ai-code-tools)
   - [AI Coding Assistants](#ai-code-assistants)
   - [LLM Models](#llm-models)
   - [AI developer Tools](#ai-developer-tools)
@@ -85,6 +85,22 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [DigitalOcean](https://somi.ai/products/digital-ocean) - The simplest scalable cloud. [![link]](https://www.digitalocean.com/)
 
 
+### AI Developer Tools
+
+
+
+
+### AI SQL Tools
+
+- [AI2sql](https://somi.ai/products/ai-2sql-io) - Boost team productivity with AI-powered SQL generation.[![link]](https://ai2sql.io/)
+- [BlazeSQL](https://somi.ai/products/blaze-sql) - Your AI Assistant for data analysis. [![link]](https://www.blazesql.com/)
+- [SQLAI.AI](https://somi.ai/products/sqlai-ai/) -Generate, optimize, fix, simplify, explain SQL queries and much more. [![link]](https://www.sqlai.ai/)
+- [AI Query](https://somi.ai/products/ai-query) - Generate SQL queries with AI in seconds. [![link]](https://aiquery.co/)
+
+
+### API Platform
+
+
 ### No Code/Low Code
 
 - [n8n](https://somi.ai/products/n8n) - Flexible AI workflow automation for technical teams. [![link]](https://n8n.partnerlinks.io/somi-ai)
@@ -113,16 +129,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Make](https://somi.ai/products/make) - Turn websites into LLM-ready data. [![link]](https://www.make.com/en/register?pc=somiai)
 - [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://bubble.pxf.io/RGKW1y)
 
-
-### AI SQL Tools
-
-- [AI2sql](https://somi.ai/products/ai-2sql-io) - Boost team productivity with AI-powered SQL generation.[![link]](https://ai2sql.io/)
-- [BlazeSQL](https://somi.ai/products/blaze-sql) - Your AI Assistant for data analysis. [![link]](https://www.blazesql.com/)
-- [SQLAI.AI](https://somi.ai/products/sqlai-ai/) -Generate, optimize, fix, simplify, explain SQL queries and much more. [![link]](https://www.sqlai.ai/)
-- [AI Query](https://somi.ai/products/ai-query) - Generate SQL queries with AI in seconds. [![link]](https://aiquery.co/)
   
-
- ### AI Website Builders
+### AI Website Builders
 
  
 - [Framer](https://somi.ai/products/framer) - Design and ship your dream site. Zero code, maximum speed. [![link]](https://www.framer.com/)
