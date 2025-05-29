@@ -88,6 +88,28 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 ### AI Developer Tools
 
 
+- [Hugging Face](https://somi.ai/products/hugging-face) - The AI community is building the future. [![link]](https://huggingface.co/)
+- [Tabnine](https://somi.ai/products/tabnine) -Empowering software developers with AI for code. [![link]](https://www.tabnine.com/)
+- [Create](https://somi.ai/products/create) - Turn your words into sites, prototypes, and AI tools [![link]](https://www.create.xyz/)
+- [JetBrains](https://somi.ai/products/jet-brains) - The world's leading provider of professional development tools. [![link]](https://www.jetbrains.com/)
+- [Replit](https://somi.ai/products/replit) - Create beautiful, modern web applications at the speed of AI agent. [![link]](https://replit.com/)
+- [DataBricks](https://somi.ai/products/data-bricks) - Simplify data + AI teams solve the world’s toughest problems [![link]](https://databricks.partnerlinks.io/somi-ai)
+- [DeepSeek](https://somi.ai/products/deep-seek) - A powerful open-source LLM designed for text and code generation. [![link]](https://www.deepseek.com/)
+- [Apify](https://somi.ai/products/apify) - A full-stack web scraping and data extraction platform. [![link]](https://www.apify.com?fpr=nmbsj)
+- [Kaggle](https://somi.ai/products/kaggle) - The world's largest community of data scientists [![link]](https://www.kaggle.com/)
+- [Semantic Scholar](https://somi.ai/products/semantic-scholar) - AI-powered research tool for scientific literature. [![link]](https://www.semanticscholar.org/)
+- [Devin by Cognition](https://somi.ai/products/devin-by-cognition) - AI-powered research tool for scientific literature. [![link]](https://www.cognition.ai/)
+- [Vercel](https://somi.ai/products/vercel) - The platform for frontend developers. Creators and maintainers of Next.js. [![link]](https://vercel.com/)
+- [Fenado AI](https://somi.ai/products/fenado-ai) - Builds apps & websites in minutes without code or hiring developers [![link]](https://fenado.ai/)
+- [Snyk](https://somi.ai/products/snyk) - The AI-powered developer security platform. [![link]](https://snyk.io/)
+- [Bright Data](https://somi.ai/products/bright-data) - The world’s #1 web data platform. [![link]](https://get.brightdata.com/somi-ai)
+- [v0.dev by Vercel](https://somi.ai/products/v0-dev-by-vercel) - Generate UI with simple text prompts: copy, paste, ship. [![link]](https://v0.dev/)
+- [Browser Use](https://somi.ai/products/browser-use) - Make websites accessible for AI agents. [![link]](https://browser-use.com/)
+- [Cursor](https://somi.ai/products/cursor) - The AI code editor. [![link]](https://www.cursor.com/)
+- [bolt.new](https://somi.ai/products/bolt-new) - The AI code editor. [![link]](https://bolt.new/)
+
+
+
 
 
 ### AI SQL Tools
