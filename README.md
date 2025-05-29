@@ -102,7 +102,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Speak AI](https://somi.ai/products/speak-ai) - Transformational technology for your awareness, well-being and productivity. [![link]](https://speakai.co/)
 - [Webflow](https://somi.ai/products/webflow) - Build, manage, and optimize your websites. [![link]](https://webflow.com/)
 - [Entelligence AI](https://somi.ai/products/entelligence-ai) - Building engineering intelligence. [![link]](https://www.entelligence.ai/)
-- [FormWise AI](https://somi.ai/products/form-wise-ai) - Build GPT powered AI tools for your end users. [![link]](https://www.formwise.ai/)
+- [FormWise AI](https://somi.ai/products/form-wise-ai) - Build GPT powered AI tools for your end users. [![link]](https://www.formwise.ai/?fpr=somi-ai)
 - [Creatie](https://somi.ai/products/creatie) - One-stop product design tool amplified by AI. [![link]](https://creatie.ai/)
 - [Wegic](https://somi.ai/products/wegic) - Your AI designer, developer, and manager. [![link]](https://wegic.ai/)
 - [Activepieces](https://somi.ai/products/activepieces) - Open source business automation software. [![link]](https://www.activepieces.com/)
