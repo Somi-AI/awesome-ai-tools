@@ -120,4 +120,23 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [BlazeSQL](https://somi.ai/products/blaze-sql) - Your AI Assistant for data analysis. [![link]](https://www.blazesql.com/)
 - [SQLAI.AI](https://somi.ai/products/sqlai-ai/) -Generate, optimize, fix, simplify, explain SQL queries and much more. [![link]](https://www.sqlai.ai/)
 - [AI Query](https://somi.ai/products/ai-query) - Generate SQL queries with AI in seconds. [![link]](https://aiquery.co/)
+  
+
+ ### AI Website Builders
+
+ 
+- [Framer](https://somi.ai/products/framer) - Design and ship your dream site. Zero code, maximum speed. [![link]](https://www.framer.com/)
+- [Instapage](https://somi.ai/products/instapage) - Build and optimize high-converting landing pages at scale. [![link]](https://instapage.com/)
+- [Arvin](https://somi.ai/products/arvin) - AI-powered logo maker that makes designing logos easier. [![link]](https://logo.arvin.chat/)
+- [Webflow](https://somi.ai/products/webflow) - AI-powered logo maker that makes designing logos easier. [![link]](https://webflow.com/)
+- [Visme](https://somi.ai/products/visme) - The all-in-one marketing, data viz, and design platform for your team. [![link]](https://www.visme.co/)
+- [Design.com/](https://somi.ai/products/design-com) - Design and launch your dream brand—quick and easy. [![link]](https://www.design.com/)
+- [Domain](https://somi.ai/products/domain-com) - It all starts with a great domain. [![link]](https://www.domain.com/)
+- [Visily](https://somi.ai/products/visily) - Easiest UI ideation tool for fast-moving teams.[![link]](https://www.visily.ai/)
+- [Builder.io](https://somi.ai/products/builder-io/) - Visually build on any tech stack. [![link]](https://www.builder.io/)
+- [Teleporthq](https://somi.ai/products/teleport-hq/) - The visual development and collaboration platform for designers and developers. [![link]](https://teleporthq.io/)
+- [CodeDesign](https://aitools.inc/tools/code-design-ai) - Turn your design into human-readable code with AI. [![link]](https://codedesign.ai/?via=somi-ai/)
+- [10web](https://somi.ai/products/10-web-io/) - Transform your ideas into high-performance websites [![link]](https://10web.sjv.io/yqOrBB)
+- [Bubble](https://somi.ai/products/bubble/) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://bubble.pxf.io/RGKW1y)
+- [Dorik](https://somi.ai/products/dorik-ai/) - Build websites with the power of AI. [![link]](https://dorik.com/)
 
