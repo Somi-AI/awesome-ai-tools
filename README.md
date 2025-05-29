@@ -96,7 +96,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Rork](https://somi.ai/products/rork) - Vibe code a mobile app in minutes. [![link]](https://rork.com/)
 - [MindStudio](https://somi.ai/products/mind-studio) - The fastest way to build AI-powered apps for your team. [![link]](https://www.mindstudio.ai/)
 - [Wordware](https://somi.ai/products/mind-studio) - AI Agent orchestration simplified. [![link]](https://www.wordware.ai/)
-- [FlowiseAI](https://somi.ai/products/flowise-ai) - Low-code LLM apps builder. [![link]](https://flowiseai.com/)
+- [FlowiseAI](https://somi.ai/products/flowise-ai) - Low-code LLM apps builder. [![link]](https://cloud.flowiseai.com/register?via=somi-ai)
 - [Dora](https://somi.ai/products/dora) - Ship 3D animated sites without code. [![link]](https://www.dora.run/)
 - [Lovable](https://somi.ai/products/dora) - Prompt full-stack apps in minutes. [![link]](https://lovable.dev/?via=somi-ai)
 - [Speak AI](https://somi.ai/products/speak-ai) - Transformational technology for your awareness, well-being and productivity. [![link]](https://speakai.co/)
