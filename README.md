@@ -21,7 +21,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [API Platform](#api-platform)
   - [No Code/Low Code](#no-code-low-code)
   - [Website and Design](#websites-and-design)
-
+  - [AI Code Review Tools](#ai-code-review-tools)
 
 - [AI Business Tools](#ai-business-tools)
   - [AI Finance](#ai-finance)
@@ -123,6 +123,15 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 ### API Platform
 
 
+- [Theneo](https://somi.ai/products/theneo) -  AI-powered API documentation made simple for developers worldwide.[![link]](https://www.theneo.io/)
+- [Merge](https://somi.ai/products/merge) - One API to add hundreds of integrations to your product.[![link]](https://www.merge.dev/)
+- [Postman](https://somi.ai/products/postman) - The world's leading API platform.[![link]](https://www.postman.com)
+- [Kong Inc.](https://somi.ai/products/kong-inc) - Powering the API world. [![link]](https://konghq.com/)
+- [MuleSoft](https://somi.ai/products/mule-soft) -AI-powered experiences start with integration and automation. [![link]](https://www.mulesoft.com/)
+- [Workato](https://somi.ai/products/workato) - One platform for intelligent integration & workflow automation across your organization. [![link]](https://www.workato.com/)
+
+
+
 ### No Code/Low Code
 
 - [n8n](https://somi.ai/products/n8n) - Flexible AI workflow automation for technical teams. [![link]](https://n8n.partnerlinks.io/somi-ai)
@@ -169,4 +178,14 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [10web](https://somi.ai/products/10-web-io/) - Transform your ideas into high-performance websites [![link]](https://10web.sjv.io/yqOrBB)
 - [Bubble](https://somi.ai/products/bubble/) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://bubble.pxf.io/RGKW1y)
 - [Dorik](https://somi.ai/products/dorik-ai/) - Build websites with the power of AI. [![link]](https://dorik.com/)
+
+
+### AI Code Review Tools
+
+
+- [CodeRabbit](https://somi.ai/products/code-rabbit) - Supercharge your dev team with AI code reviews. [![link]](https://www.coderabbit.ai/)
+- [Sourcery](https://somi.ai/products/sourcery) - 1000x faster code reviews.[![link]](https://sourcery.ai/)
+- [Bito AI](https://somi.ai/products/bito) - Ship clean code the first time. [![link]](https://bito.ai/)
+- [Metabob](https://somi.ai/products/metabob) - AI-assisted tool revolutionizing static code analysis. [![link]](https://metabob.com/)
+
 
