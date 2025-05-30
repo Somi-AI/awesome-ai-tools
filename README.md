@@ -109,7 +109,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [bolt.new](https://somi.ai/products/bolt-new) - The AI code editor. [![link]](https://bolt.new/)
 
 
-### AI SQL Tools
+### SQL
 
 
 - [AI2sql](https://somi.ai/products/ai-2sql-io) - Boost team productivity with AI-powered SQL generation.[![link]](https://ai2sql.io/)
@@ -159,7 +159,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://bubble.pxf.io/RGKW1y)
 
   
-### AI Website Builders
+### Website and Design
 
  
 - [Framer](https://somi.ai/products/framer) - Design and ship your dream site. Zero code, maximum speed. [![link]](https://www.framer.com/)
