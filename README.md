@@ -189,11 +189,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 ## AI Image Tools
 
+
 ### Image Generators
-
-
-
-### AI Image Generators
 
 - [Midjourney](https://somi.ai/products/midjourney) - Create AI generated images from a text prompt. [![link]](https://www.midjourney.com/home)
 - [Stable Diffusion](https://somi.ai/products/stable-diffusion) - Open models in every modality,  for everyone, everywhere. [![link]](https://stability.ai/)
@@ -215,6 +212,24 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Leonardo AI](https://somi.ai/products/leonardo-ai) - AI-powered content creation suite that helps you rapidly ideate, prototype, and create. [![link]](https://leonardo.ai/)
 
 ### Image Editing
+
+
+- [Photoroom](https://somi.ai/products/photoroom) - The best AI photo and design platform for e-commerce. [![link]](https://www.photoroom.com/)
+- [Dzine](https://somi.ai/products/dzine) -AI image editing & graphic design tool. [![link]](https://www.dzine.ai/)
+- [Playground AI](https://somi.ai/products/playground-ai) - Use AI to design logos, t-shirts, social media posts, and more. [![link]](https://playground.com/)
+- [Pixlr](https://somi.ai/products/pixlr) - Create professional-grade images in minutes. [![link]](https://pixlr.com/)
+- [Vance AI](https://somi.ai/products/vance-ai) - One-stop for AI image processing & automatic photo editing. [![link]](https://vance.ai/)
+- [Pokecut](https://somi.ai/products/pokecut) - AI photo editor. [![link]](https://www.pokecut.com/)
+- [Nim](https://somi.ai/products/nim) - The ultimate platform for AI video production.[![link]](https://nim.video/)
+- [insMind](https://somi.ai/products/ins-mind) - Create studio-quality product photos with AI generated backgrounds and customized designs. [![link]](https://www.insmind.com/)
+- [AIEASE](https://somi.ai/products/aiease) - AI-powered photo editing tools. [![link]](https://www.aiease.ai/)
+- [clipfly](https://somi.ai/products/clipfly) - All-in-one AI video editor for easy video editing and enhancement. [![link]](https://www.clipfly.ai/)
+- [Cutout.pro](https://somi.ai/products/cutout-pro) - AI powered creative visual design platform. [![link]](https://www.cutout.pro/)
+- [Adobe Photoshop](https://somi.ai/products/photoshop-ai) -Create anything you can imagine or make it disappear with generative AI. [![link]](https://photoshop.adobe.com/discover)
+- [Flux.1 AI](https://somi.ai/products/flux-1-ai) - Transform text into stunning images in seconds. [![link]](https://flux1.ai/)
+- [getimg.ai](https://somi.ai/products/getimg-ai) - rAll-In-one AI creative toolkit. [![link]](https://getimg.ai/)
+- [Canva](https://somi.ai/products/canva) - Turn your imagination into reality with simple graphic design. [![link]](https://canva.partnerlinks.io/somi-ai)
+
 ### Design Generators
 ### Text-to-Image
 
