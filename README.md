@@ -16,7 +16,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [AI Code Tools](#ai-code-tools)
   - [AI Coding Assistants](#ai-code-assistants)
   - [LLM Models](#llm-models)
-  - [AI developer Tools](#ai-developer-tools)
+  - [Developer Tools](#developer-tools)
   - [SQL](#sql)
   - [API Platform](#api-platform)
   - [No Code/Low Code](#no-code-low-code)
@@ -47,7 +47,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [Text-to-Video](#text-to-video)
   - [Video Enhancer](#video-enhancer)
  
-## AI Developer Tools
+## AI Code Tools
 
 ### AI Coding Assistants
 - [CodeRabbit](https://somi.ai/products/code-rabbit) - Supercharge your dev team with AI code reviews. [![link]](https://www.coderabbit.ai/)
@@ -85,7 +85,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [DigitalOcean](https://somi.ai/products/digital-ocean) - The simplest scalable cloud. [![link]](https://www.digitalocean.com/)
 
 
-### AI Developer Tools
+### Developer Tools
 
 
 - [Hugging Face](https://somi.ai/products/hugging-face) - The AI community is building the future. [![link]](https://huggingface.co/)
@@ -109,10 +109,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [bolt.new](https://somi.ai/products/bolt-new) - The AI code editor. [![link]](https://bolt.new/)
 
 
-
-
-
 ### AI SQL Tools
+
 
 - [AI2sql](https://somi.ai/products/ai-2sql-io) - Boost team productivity with AI-powered SQL generation.[![link]](https://ai2sql.io/)
 - [BlazeSQL](https://somi.ai/products/blaze-sql) - Your AI Assistant for data analysis. [![link]](https://www.blazesql.com/)
@@ -131,8 +129,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Workato](https://somi.ai/products/workato) - One platform for intelligent integration & workflow automation across your organization. [![link]](https://www.workato.com/)
 
 
-
 ### No Code/Low Code
+
 
 - [n8n](https://somi.ai/products/n8n) - Flexible AI workflow automation for technical teams. [![link]](https://n8n.partnerlinks.io/somi-ai)
 - [Zapier](https://somi.ai/products/zapier) - Get your software working together, automatically. [![link]](https://zapier.com/)
