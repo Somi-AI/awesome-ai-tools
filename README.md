@@ -187,3 +187,34 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Metabob](https://somi.ai/products/metabob) - AI-assisted tool revolutionizing static code analysis. [![link]](https://metabob.com/)
 
 
+## AI Image Tools
+
+### Image Generators
+
+
+
+### AI Image Generators
+
+- [Midjourney](https://somi.ai/products/midjourney) - Create AI generated images from a text prompt. [![link]](https://www.midjourney.com/home)
+- [Stable Diffusion](https://somi.ai/products/stable-diffusion) - Open models in every modality,  for everyone, everywhere. [![link]](https://stability.ai/)
+- [Adobe Firefly](https://somi.ai/products/adobe-firefly/) - Create with Adobe Firefly generative AI. [![link]](https://www.adobe.com/products/firefly.html)
+- [DALL-E 3](https://somi.ai/products/dall-e-3/)) - Creating safe AGI that benefits all of humanity. [![link]](https://openai.com/index/dall-e-3/)
+- [Magic Studio](https://somi.ai/products/magic-studio) - Make beautiful images with the magic of AI. [![link]](https://magicstudio.com/)
+- [Cabina AI](https://somi.ai/products/cabina-ai) - All-In-One AI chat for life & business. [![link]](https://cabina.ai/)
+- [NightCafe Studio](https://somi.ai/products/night-cafe-studio) - AI powered art studio. [![link]](https://creator.nightcafe.studio/)
+- [Cici AI](https://somi.ai/products/cici-ai) - Your everyday AI assistant. [![link]](https://www.cici.com/)
+- [Pika Style](https://somi.ai/products/pika-style) - Create beautiful screenshots and mockups effortlessly. [![link]](https://pika.style/?via=somi-ai)
+- [Vidu AI](https://somi.ai/products/vidu-ai) - Transforming concepts into reality. [![link]](https://www.vidu.com/)
+- [Craion AI](https://somi.ai/products/craion-ai) - Create AI Art with our free AI image generator. [![link]](https://www.craiyon.com/)
+- [KREA AI](https://somi.ai/products/krea-ai) - Delightful creative tools with AI inside. [![link]](https://www.krea.ai/)
+- [Sora By OpenAI](https://somi.ai/products/sora-by-open-ai) -  Sora is a text-to-video model developed by OpenAI. [![link]](https://openai.com/sora/)
+- [VEED](https://somi.ai/products/veed) - AI-powered video creation for teams. [![link]](https://veed.sjv.io/LKg163)
+- [Pippit](https://somi.ai/products/pippit) - Your smart creative agent. [![link]](https://CapCutCreator.pxf.io/K0gGbv)
+- [KreadoAI](https://somi.ai/products/kreado-ai) - Design and ship your dream site. Zero code, maximum speed. [![link]](https://www.kreadoai.com/?via=somi-ai)
+- [Canva](https://somi.ai/products/canva) - Turn your imagination into reality with simple graphic design [![link]](https://canva.partnerlinks.io/somi-ai)
+- [Leonardo AI](https://somi.ai/products/leonardo-ai) - AI-powered content creation suite that helps you rapidly ideate, prototype, and create. [![link]](https://leonardo.ai/)
+
+### Image Editing
+### Design Generators
+### Text-to-Image
+
