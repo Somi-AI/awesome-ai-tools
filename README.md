@@ -39,6 +39,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [Image Editing](#image-editing)
   - [Design Generators](#design-generators)
   - [Text-to-Image](#text-to-image)
+  - [AI-image-enhancer](#ai-image-enhancer)
+
 
 
 - [AI Video Tools](#ai-video-tools)
@@ -189,8 +191,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 ## AI Image Tools
 
-
 ### Image Generators
+
 
 - [Midjourney](https://somi.ai/products/midjourney) - Create AI generated images from a text prompt. [![link]](https://www.midjourney.com/home)
 - [Stable Diffusion](https://somi.ai/products/stable-diffusion) - Open models in every modality,  for everyone, everywhere. [![link]](https://stability.ai/)
@@ -211,6 +213,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Canva](https://somi.ai/products/canva) - Turn your imagination into reality with simple graphic design [![link]](https://canva.partnerlinks.io/somi-ai)
 - [Leonardo AI](https://somi.ai/products/leonardo-ai) - AI-powered content creation suite that helps you rapidly ideate, prototype, and create. [![link]](https://leonardo.ai/)
 
+
 ### Image Editing
 
 
@@ -230,6 +233,31 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [getimg.ai](https://somi.ai/products/getimg-ai) - rAll-In-one AI creative toolkit. [![link]](https://getimg.ai/)
 - [Canva](https://somi.ai/products/canva) - Turn your imagination into reality with simple graphic design. [![link]](https://canva.partnerlinks.io/somi-ai)
 
+
 ### Design Generators
+
+
+- [Looka](https://somi.ai/products/looka) - Design your own beautiful brand. [![link]](https://looka.com/)
+- [FLORA](https://somi.ai/products/flora) - Your intelligent canvas. [![link]](https://www.florafauna.ai/)
+- [Figma](https://somi.ai/products/figma) - Figma helps design and development teams build great products, together. [![link]](https://www.figma.com/)
+- [Icons8](https://somi.ai/products/icons8) - Icons, illustrations, photos, music & design tools. [![link]](https://icons8.com/)
+- [LogoAi.com](https://somi.ai/products/logo-ai-com) - AI-powered logo maker and brand automation platform. [![link]](https://www.logoai.com/)
+- [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://bubble.pxf.io/RGKW1y)
+
+
 ### Text-to-Image
+
+
+- [Google AI Studio](https://somi.ai/products/google-ai-studio) - Built with the latest models from Google DeepMind. [![link]](https://aistudio.google.com/)
+- [Nim](https://somi.ai/products/nim) - The ultimate platform for AI video production. [![link]](https://nim.video/)
+- [Sora By OpenAI](https://somi.ai/products/sora-by-open-ai) - Sora is a text-to-video model developed by OpenAI. [![link]](https://openai.com/sora/)
+- [Flixier](https://somi.ai/products/flixier) - Create, edit and publish in minutes instead of hours or days. [![link]](https://flixier.com/)
+
+
+### AI Image Enhancer
+
+
+- [Picsart](https://somi.ai/products/picsart) - AI-powered tools, anyone can design, edit, and share like a pro. [![link]](https://picsart.com/)
+- [Remini](https://somi.ai/products/remini/) - AI photo enhancer. [![link]](https://remini.ai/)
+- [BeautyPlus](https://somi.ai/products/beauty-plus/) -AI cartoon, face&photo editor. [![link]](https://www.beautyplus.com/)
 
