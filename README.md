@@ -1,6 +1,7 @@
 # # Awesome-ai-tools
 
-[![somii github](https://github.com/user-attachments/assets/00559c42-842a-4c55-8ec5-b9d18ba7c7eb)] (https://github.com/somi-ai/awesome-ai-tools)
+![somii github](https://github.com/user-attachments/assets/00559c42-842a-4c55-8ec5-b9d18ba7c7eb) 
+(https://github.com/somi-ai/awesome-ai-tools)
 
 
 
@@ -264,4 +265,33 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Picsart](https://somi.ai/products/picsart) - AI-powered tools, anyone can design, edit, and share like a pro. [![link]](https://picsart.com/)
 - [Remini](https://somi.ai/products/remini/) - AI photo enhancer. [![link]](https://remini.ai/)
 - [BeautyPlus](https://somi.ai/products/beauty-plus/) -AI cartoon, face&photo editor. [![link]](https://www.beautyplus.com/)
+
+
+## AI Video Tools
+
+
+### Video Generators
+
+- [Renderforest](https://somi.ai/products/renderforest) - All your design tools in one place. [![link]](https://renderforest.pxf.io/3JYLZr)
+- [Wondershare Virbo](https://somi.ai/products/wondershare-virbo) - Custom AI avatars for every video—engage and create effortlessly. [![link]](https://wondersharesoftware.pxf.io/o4VkQe)
+- [Pictory](https://somi.ai/products/pictory) - Create and edit professional-quality videos using text. [![link]](https://pictory.ai/?el=2000&htrafficsource=pictoryblog)
+- [Creatify](https://somi.ai/products/creatify) - Generate engaging short video ads for your brand from any URL. [![link]](https://creatify.ai/)
+- [InVideo](https://somi.ai/products/in-video) - Turn your ideas into attention-grabbing videos with ease. [![link]](https://invideo.sjv.io/Z6qMm0)
+- [Flickify](https://somi.ai/products/flickify) - Easily transform articles into captivating videos. [![link]](https://www.flickify.com/)
+- [Wan 2.1 AI Video](https://somi.ai/products/wan-2-1-ai-video) - Open and advanced large-scale video generative models. [![link]](https://wanxai.com/)
+- [Genmo AI](https://somi.ai/products/genmo-ai) - Turn text or images into dynamic visuals. [![link]](https://www.genmo.ai/)
+
+
+### Video Editors
+
+
+- [Submagic](https://somi.ai/products/submagic) -  Create viral shorts in seconds with AI. [![link]](https://submagic.co/?via=somi-ai)
+- [VEED](https://somi.ai/products/veed) - AI-powered video creation for teams. [![link]](https://veed.sjv.io/LKg163)
+- [Video Seal by Meta](https://somi.ai/products/video-seal-by-meta) - A state-of-the-art, open-source model for video watermarking. [![link]](https://aidemos.meta.com/videoseal)
+- [Wondershare Filmora Video Editor](https://somi.ai/products/wondershare-filmora-video-editor) - Create engaging content with minimal effort. [![link]](https://wondersharesoftware.pxf.io/o4VkQe)
+- [Capcut](https://somi.ai/products/capcut) - All-in-one video editing app for creating. [![link]](https://capcutaffiliateprogram.pxf.io/19ZdmR)
+- [LOVO AI](https://somi.ai/products/lovo-ai) - All-in-one content editor. [![link]](https://lovo.ai/?ref=somi-ai)
+- [Descript](https://somi.ai/products/descript) - AI-powered fully featured end-to-end video editor. [![link]](https://get.descript.com/somi-ai)
+- [DupDub](https://somi.ai/products/dup-dub) - AI-powered creative suite for content creation. [![link]](http://www.dupdub.com/?via=somi-ai)
+- [Vmaker](https://somi.ai/products/vmaker) - Turn your raw videos into wow videos in minutes. [![link]](https://www.vmaker.com/)
 
