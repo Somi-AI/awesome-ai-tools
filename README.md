@@ -223,9 +223,30 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Rankmath](https://somi.ai/products/rankmath) -SEO for WordPress made easy.[![link]](https://rankmath.com/)
 
 
-
 ### Human Resources
+
+
+- [Careerflow.ai](https://somi.ai/products/careerflow-ai) - Simplify your career journey with our career copilot. [![link]](https://careerflow.ai/premium?via=somi-ai)
+- [Enhancv](https://somi.ai/products/enhancv) - Create a modern, memorable resume. [![link]](https://enhancv.com/)
+- [Teal](https://somi.ai/products/teal) - A personal career growth platform. [![link]](https://www.tealhq.com/)
+- [Resume Genius](https://somi.ai/products/resume-genius) -  Make your professional resume in minutes.[![link]](https://resumegenius.com/)
+- [resume.io](https://somi.ai/products/resume-io) -Create amazing professional resumes in minutes. [![link]](https://resume.io/)
+- [Kickresume](https://somi.ai/products/kickresume) - Let AI write your resume and cover letter in seconds. [![link]](https://www.kickresume.com)
+
+
 ### Marketing Tools
+
+
+- [Warmy.io](https://somi.ai/products/warmy-io) - Auto all-in-one tool to make your email channel reliable. [![link]](https://warmyio.partnerlinks.io/somi-ai)
+- [Clean Email](https://somi.ai/products/clean-email) - Keep it free of junk and unwanted emails through automation. [![link]](https://cleanemailr.pxf.io/MAkQWY)
+- [Beacons.ai](https://somi.ai/products/beacons-ai) -Turn your Link in Bio into a sales and marketing engine. [![link]](https://beacons.ai/)
+- [Moosend](https://somi.ai/products/moosend) - Email marketing and marketing automation platform. [![link]](https://trymoo.moosend.com/1ce747exipmn)
+- [Zoho Campaigns](https://somi.ai/products/zoho-campaigns) - All-in-one powerful Email and SMS marketing solution. [![link]](https://www.zoho.com/campaigns/)
+- [kit](https://somi.ai/products/kit) - The email-first operating system for creators who mean business. [![link]](https://kit.com/)
+- [beehiiv](https://somi.ai/products/beehiiv) - Launch, scale, and monetize your newsletter with a publishing platform built for growth. [![link]](https://www.beehiiv.com/)
+- [klaviyo](https://somi.ai/products/klaviyo) -The only CRM built for B2C.[![link]](https://www.klaviyo.com/)
+
+  
 ### Project Management
 
 
