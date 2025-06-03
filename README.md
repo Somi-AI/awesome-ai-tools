@@ -295,3 +295,26 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [DupDub](https://somi.ai/products/dup-dub) - AI-powered creative suite for content creation. [![link]](http://www.dupdub.com/?via=somi-ai)
 - [Vmaker](https://somi.ai/products/vmaker) - Turn your raw videos into wow videos in minutes. [![link]](https://www.vmaker.com/)
 
+### Text To Video
+
+
+- [Google AI Studio](https://somi.ai/products/google-ai-studio) - Built with the latest models from Google DeepMind. [![link]](https://aistudio.google.com/)
+- [Nim](https://somi.ai/products/nim) - The ultimate platform for AI video production. [![link]](https://nim.video/)
+- [Sora By OpenAI](https://somi.ai/products/sora-by-open-ai) - Sora is a text-to-video model developed by OpenAI. [![link]](https://openai.com/sora/)
+- [Flixier](https://somi.ai/products/flixier) - Create, edit and publish in minutes instead of hours or days. [![link]](https://flixier.com/)
+- [klingAI](https://somi.ai/products/kling-ai) - All-in-one creative studio. [![link]](https://klingaiaffiliate.pxf.io/vPWKm3)
+- [Jimeng AI](https://somi.ai/products/jimeng-ai) -Instant creation from your inspiration. [![link]](https://jimeng.jianying.com/)
+- [KreadoAI](https://somi.ai/products/kreado-ai) - Create stunning AI videos. [![link]](https://www.kreadoai.com/?via=somi-ai)
+- [JoggAI](https://somi.ai/products/jogg-ai) - Create engaging videos with AI In minutes. [![link]](https://joggpteltd.sjv.io/jeV95b)
+- [Zebracat AI](https://somi.ai/products/zebracat-ai) - Best text-to-video AI for marketers. [![link]](https://www.zebracat.ai/)
+
+
+### Video Enhancer
+
+
+- [HitPaw](https://somi.ai/products/hit-paw) - Your ultimate multimedia solution powered by AI [![link]](https://www.hitpaw.com/)
+- [KREA AI](https://somi.ai/products/krea-ai) - Delightful creative tools with AI inside. [![link]](https://www.krea.ai/)
+- [vidyo.ai](https://somi.ai/products/vidyo-ai) - Make short clips from long videos. [![link]](https://vidyo.ai/)
+- [Cutout.pro](https://somi.ai/products/cutout-pro) - AI powered creative visual design platform. [![link]](https://capcutaffiliateprogram.pxf.io/19ZdmR)
+- [Wondershare Filmora Video Editor](https://somi.ai/products/wondershare-filmora-video-editor) - Create engaging content with minimal effort.[![link]](https://wondersharesoftware.pxf.io/o4VkQe)
+- [Remini](https://somi.ai/products/remini) - AI photo enhancer. [![link]](https://remini.ai/)
