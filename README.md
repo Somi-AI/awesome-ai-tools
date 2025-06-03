@@ -315,6 +315,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [HitPaw](https://somi.ai/products/hit-paw) - Your ultimate multimedia solution powered by AI [![link]](https://www.hitpaw.com/)
 - [KREA AI](https://somi.ai/products/krea-ai) - Delightful creative tools with AI inside. [![link]](https://www.krea.ai/)
 - [vidyo.ai](https://somi.ai/products/vidyo-ai) - Make short clips from long videos. [![link]](https://vidyo.ai/)
-- [Cutout.pro](https://somi.ai/products/cutout-pro) - AI powered creative visual design platform. [![link]](https://capcutaffiliateprogram.pxf.io/19ZdmR)
+- [Cutout.pro](https://somi.ai/products/cutout-pro) - AI powered creative visual design platform. [![link]](https://www.cutout.pro/)
 - [Wondershare Filmora Video Editor](https://somi.ai/products/wondershare-filmora-video-editor) - Create engaging content with minimal effort.[![link]](https://wondersharesoftware.pxf.io/o4VkQe)
 - [Remini](https://somi.ai/products/remini) - AI photo enhancer. [![link]](https://remini.ai/)
