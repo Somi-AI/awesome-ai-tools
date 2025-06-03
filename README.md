@@ -193,6 +193,54 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Bito AI](https://somi.ai/products/bito) - Ship clean code the first time. [![link]](https://bito.ai/)
 - [Metabob](https://somi.ai/products/metabob) - AI-assisted tool revolutionizing static code analysis. [![link]](https://metabob.com/)
 
+## AI Business Tools
+
+### Finance
+
+
+### Customer Support
+
+
+- [Zendesk](https://somi.ai/products/zendesk) - Experience the power of exceptional service with Zendesk AI. [![link]](https://www.zendesk.com/)
+- [Krisp](https://somi.ai/products/krisp) - Supercharge your online meetings. [![link]](https://krisp.ai/)
+- [Freshworks](https://somi.ai/products/freshworks) - Uncomplicated service software. [![link]](https://www.freshworks.com/)
+- [Synthflow AI](https://somi.ai/products/synthflow-ai) - Create human-like AI voice agents with no-code. [![link]](https://synthflow.ai/)
+- [Command A](https://somi.ai/products/command-ai) -AI-powered user assistance. [![link]](https://www.command.ai/)
+- [ZipChat AI](https://somi.ai/products/zip-chat-ai) - AI agent for e-commerce. [![link]](https://zipchat.ai/)
+
+  
+### SEO Tools
+
+
+- [KoalaWriter](https://somi.ai/products/koala-writer) - Create high-quality SEO-optimized articles in minutes. [![link]](https://koala.sh/?via=somi-ai)
+- [Keyword Insights](https://somi.ai/products/keyword-insights) - Build and own topical authority in your niche. [![link]](https://www.keywordinsights.ai/?via=somi-ai)
+- [lindo.ai](https://somi.ai/products/lindo-ai) - AI agent website builder. [![link]](https://al.lindoai.com/PEuAJy4bY90n)
+- [Alli AI](https://somi.ai/products/alli-ai) - Optimize, automate, deploy and scale SEO. [![link]](https://try.alliai.com/somi-ai)
+- [SE Ranking](https://somi.ai/products/se-ranking) - Building a powerful, intuitive SEO platform.[![link]](https://seranking.com/)
+- [Ubersuggest](https://somi.ai/products/ubersuggest) -All-In-one tool that makes SEO easy.[![link]](https://neilpatel.com/ubersuggest/)
+- [Surfer](https://somi.ai/products/surfer) - Boost organic traffic, improve rankings, and grow your business. [![link]](https://surferseo.com/)
+- [Semrush](https://somi.ai/products/semrush) -Handle SEO, marketing, PPC, and social media from one platform [![link]](https://www.semrush.com/)
+- [Rankmath](https://somi.ai/products/rankmath) -SEO for WordPress made easy.[![link]](https://rankmath.com/)
+
+
+
+### Human Resources
+### Marketing Tools
+### Project Management
+
+
+
+### Social Media
+
+
+- [Submagic](https://somi.ai/products/submagic) - Create viral shorts in seconds with AI. [![link]](https://submagic.co/?via=somi-ai)
+- [Pallyy](https://somi.ai/products/pallyy) - Social media management platform. [![link]](https://pallyy.com/?via=somi-ai)
+- [Pippit](https://somi.ai/products/pippit) - Your smart creative agent. [![link]](https://CapCutCreator.pxf.io/K0gGbv.)
+- [SocialBee](https://somi.ai/products/social-bee) -Social media management tool. [![link]](https://get.socialbee.io/somi-ai)
+- [Social Monkey](https://somi.ai/products/social-monkey) - Social Monkey free tools & downloaders to make your social media life easier. [![link]](https://socialmonkey.net/)
+- [Buffer](https://somi.ai/products/buffer) - Create and share social media content anywhere, consistently. [![link]](https://buffer.com/)
+- [Typefully](https://somi.ai/products/typefully) -The ultimate writing app for Twitter and LinkedIn content creators. [![link]](https://typefully.com/?via=somi-ai)
+
 
 ## AI Image Tools
 
