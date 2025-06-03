@@ -1,4 +1,8 @@
-# Awesome-ai-tools
+# # Awesome-ai-tools
+
+![somii github](https://github.com/user-attachments/assets/00559c42-842a-4c55-8ec5-b9d18ba7c7eb)(https://github.com/somi-ai/awesome-ai-tools)
+
+
 
 Welcome to Awesome AI Tools — a curated directory of the best generative AI tools, large language models (LLMs), and automation products available today. 
 Whether you're a developer, founder, creator, or simply curious about the latest in AI, 
