@@ -206,7 +206,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://bubble.pxf.io/RGKW1y)
 
 
-  ### Website and Design
+### Website and Design
 
  
 - [Framer](https://somi.ai/products/framer) - Design and ship your dream site. Zero code, maximum speed. [![link]](https://www.framer.com/)
