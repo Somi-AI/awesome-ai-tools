@@ -37,7 +37,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [Social Media](#social-media)
   
 
-
 - [AI Image Tools](#ai-image-tools)
   - [Image Generators](#image-generators)
   - [Image Editing](#image-editing)
@@ -52,6 +51,15 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [Video Editors](#video-editing)
   - [Text-to-Video](#text-to-video)
   - [Video Enhancer](#video-enhancer)
+ 
+  
+- [AI Audio and Music Generators](#ai-audio-and-music-generators)
+  - [Audio Editing](#audio-editing)
+  - [Text To Speech](#text-to-speech)
+  - [Voice Cloning](#voice-cloning)
+  - [Audio Transcriber](#audio-transcriber)
+  - [Music](#Music)
+
  
 ## AI Code Tools
 
@@ -390,3 +398,58 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Cutout.pro](https://somi.ai/products/cutout-pro) - AI powered creative visual design platform. [![link]](https://www.cutout.pro/)
 - [Wondershare Filmora Video Editor](https://somi.ai/products/wondershare-filmora-video-editor) - Create engaging content with minimal effort.[![link]](https://wondersharesoftware.pxf.io/o4VkQe)
 - [Remini](https://somi.ai/products/remini) - AI photo enhancer. [![link]](https://remini.ai/)
+
+
+## AI Audio & Music Generators
+
+
+### Audio Editing
+
+
+- [Castmagic](https://somi.ai/products/castmagic) - Turn media into social posts, blogs, newsletters, meeting notes like magic [![link]](https://get.castmagic.io/somi-ai)
+- [Suno](https://somi.ai/products/suno) - Make any song you can imagine. [![link]](https://suno.com/)
+- [Resemble AI](https://somi.ai/products/resemble-ai) - Create AI voices in minutes. [![link]](https://www.resemble.ai/)
+- [Cleanvoice AI](https://somi.ai/products/cleanvoice-ai) - Automated podcast editing. [![link]](https://cleanvoice.ai/)
+- [Riverside.fm](https://somi.ai/products/riverside-fm) - Your all-in-one podcast and video platform.[![link]](https://riverside.fm/)
+
+
+### Text To Speech
+
+
+- [Murf AI](https://somi.ai/products/murf-ai) -Create voiceovers in minutes, powered by natural-sounding AI voices.[![link]](https://get.murf.ai/lwgp1qb4f2ca)
+- [VEED](https://somi.ai/products/veed) - AI-powered video creation for teams. [![link]](https://veed.sjv.io/LKg163)
+- [Wondershare Filmora Video Editor](https://somi.ai/products/wondershare-filmora-video-editor) - Create engaging content with minimal effort. [![link]](https://wondersharesoftware.pxf.io/o4VkQe)
+- [ElevenLabs](https://somi.ai/products/eleven-labs) - Making content universally accessible in any language and voice. [![link]](https://try.elevenlabs.io/q72tq3kq7zsj)
+- [KreadoAI](https://somi.ai/products/kreado-ai) -Create stunning AI videos.[![link]](https://www.kreadoai.com/?via=somi-ai)
+- [DupDub](https://somi.ai/products/dup-dub) - AI-powered creative suite for content creation. [![link]](http://www.dupdub.com/?via=somi-ai)
+- [Clipchamp](https://somi.ai/products/clipchamp) - Engage your audience with professional-looking video content.[![link]](https://clipchamp.com/en/)
+- [Colossyan](https://somi.ai/products/colossyan) - Create videos from text with AI avatars [![link]](https://www.colossyan.com/)
+- [Altered](https://somi.ai/products/altered) - Digital audio content creation. [![link]](https://www.altered.ai/)
+- [Speechify](https://somi.ai/products/speechify) -The largest provider of Speech AI in the world.[![link]](https://speechify.com/)
+
+
+### Voice Cloning
+
+
+- [ElevenLabs](https://somi.ai/products/eleven-labs) -Making content universally accessible in any language and voice[![link]](https://try.elevenlabs.io/q72tq3kq7zsj)
+- [Murf AI](https://somi.ai/products/murf-ai) - Create voiceovers in minutes, powered by natural-sounding AI voices [![link]](https://get.murf.ai/lwgp1qb4f2ca)
+- [Syllaby](https://somi.ai/products/syllaby) - Create, schedule, publish, and automate videos to your social media. [![link]](https://syllaby.io/?via=somi-ai)
+- [LOVO AI](https://somi.ai/products/lovo-ai) - All-in-one content editor.[![link]](https://lovo.ai/?ref=somi-ai)
+- [TalkingAvatar](https://somi.ai/products/talking-avatar) - Make anyone say anything you want. [![link]](https://www.talkingavatar.ai/)
+- [Voice AI](https://somi.ai/products/voice-ai) -Voice agents & real-time voice transformation platform.[![link]](https://voice.ai/)
+- [Vocloner](https://somi.ai/products/vocloner) - Create, share and listen to cloned voices instantly. [![link]](https://vocloner.com/)
+  
+
+### Audio Transcriber
+
+
+- [Maestra](https://somi.ai/products/maestra) -Convert your videos into foreign languages automatically.[![link]](https://maestra.ai/)
+- [HappyScribe](https://somi.ai/products/happy-scribe) - All-in-one platform for subtitles & transcription. [![link]](https://www.happyscribe.com/)
+- [Castmagic](https://somi.ai/productscastmagic) - Turn media into social posts, blogs, newsletters, meeting notes like magic [![link]](https://get.castmagic.io/somi-ai)
+- [Gladia](https://somi.ai/products/gladia) - Audio AI infrastructure for voice-first platform. [![link]](https://www.gladia.io/)
+
+### Music
+
+
+- [Mubert](https://somi.ai/products/mubert) -Next-gen AI-generated music for your content, powered by sound producers.[![link]](https://mubert.com/)
+- [Soundraw](https://somi.ai/products/soundraw) -Create and own infinite unique beats and BGM with AI.[![link]](https://soundraw.io/)
