@@ -15,7 +15,7 @@ We share regular updates in the [Somi AI Newsletter](https://somi.ai/newsletter)
 
 Building or using something amazing in AI?
 
-👉 Submit it  [Somi AI](https://somi.ai/) or drop it in the comments!
+👉 Submit it  [Somi AI](https://somi.ai/) for free or drop it in the comments!
 
 Let me know if you'd like to include categories (e.g. Text Generation, Audio Tools, AI Agents), badges, or submission guidelines.
 
