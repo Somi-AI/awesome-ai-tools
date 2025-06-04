@@ -9,7 +9,7 @@ Whether you're a developer, founder, creator, or just curious about what's possi
 Our goal is to help you discover powerful tools to boost productivity, streamline workflows, and unlock new possibilities.
 
 📬 Stay Updated
-We share regular updates in the Somi AI Newsletter (https://somi.ai/newsletter)   — subscribe to get the latest AI news and discover the top tools making waves.
+We share regular updates in the [Somi AI Newsletter](https://somi.ai/newsletter) — subscribe to get the latest AI news and discover the top tools making waves.
 
 🧠 Know a Great AI Tool?
 Building or using something amazing in AI?
