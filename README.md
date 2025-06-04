@@ -65,7 +65,13 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [Voice Cloning](#voice-cloning)
   - [Audio Transcriber](#audio-transcriber)
   - [Music](#Music)
+ 
 
+- [AI Productivity Tools](#ai-productivity-tools)
+  - [Personal Assistant](#persona-assistant)
+  - [AI Chatbots](#ai-chatbots)
+  - [Email Marketing](#email-marketing)
+  - [Presentations](#presentations)
  
 ## AI Code Tools
 
