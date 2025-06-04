@@ -205,8 +205,8 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Make](https://somi.ai/products/make) - Turn websites into LLM-ready data. [![link]](https://www.make.com/en/register?pc=somiai)
 - [Bubble](https://somi.ai/products/bubble) - Build web, mobile, & AI apps with the power of AI+visual development. [![link]](https://bubble.pxf.io/RGKW1y)
 
-  
-### Website and Design
+
+  ### Website and Design
 
  
 - [Framer](https://somi.ai/products/framer) - Design and ship your dream site. Zero code, maximum speed. [![link]](https://www.framer.com/)
@@ -523,7 +523,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [NotebookLM](https://somi.ai/products/notebook-lm) - Your personalized AI research assistant. [![link]](https://notebooklm.google/)
 - [You.com](https://somi.ai/products/you-com) - Increase productivity across your entire organization with the most accurate AI agents.[![link]](https://you.com/)
 
-  
+
 ### AI Chatbots
 
 
@@ -538,7 +538,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [ChatGPT by OpenAI](https://somi.ai/products/chat-gpt-by-open-ai) - ChatGPT helps you get answers, find inspiration and be more productive. [![link]](https://openai.com/chatgpt/)
 
 
-  ### Email Marketing
+### Email Marketing
 
   
 - [Warmy.io](https://somi.ai/products/warmy-io) - Auto all-in-one tool to make your email channel reliable. [![link]](https://warmyio.partnerlinks.io/somi-ai)
