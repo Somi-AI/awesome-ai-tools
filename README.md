@@ -595,6 +595,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 
 ## AI Art Generators
+
+
 ### AI Characters
 
 
@@ -617,3 +619,39 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Captions](https://somi.ai/products/captions) - Generate and edit talking videos with AI. [![link]](https://www.captions.ai/)
 - [Starry AI](https://somi.ai/products/starry-ai) -Input prompts, and watch our AI art generator effortlessly turn words into high-quality visuals. [![link]](https://starryai.com/)
 - [Colossyan](https://somi.ai/products/colossyan) - Create videos from text with AI avatars [![link]](https://www.colossyan.com/)
+
+
+## AI Data & Research
+
+
+### Data & Analytics
+
+
+- [Future AGI](https://somi.ai/products/future-agi) -Build Trustworthy AI 10x Faster. [![link]](https://futureagi.com/)
+- [Windsor.ai](https://somi.ai/products/windsor-ai) - Connecting all your data. [![link]](https://windsor.ai/)
+
+
+  ### AI Content Detectors
+
+  
+- [HIX.AI](https://somi.ai/products/hix-ai) - All-In-one AI writing cop [![link]](https://hix.ai/)
+- [Undetectable AI](https://somi.ai/products/undetectable-ai) -Protect your work from being flagged or removed by AI detection tools.  [![link]](https://undetectable.ai/)
+- [NoteGPT](https://somi.ai/products/note-gpt) -AI summarizer & generator for enhanced Learning.  [![link]](https://notegpt.io/)
+- [Copyleaks](https://somi.ai/products/copyleaks) - AI content and plagiarism detection. [![link]](https://copyleaks.com/)
+- [Humanize AI](https://somi.ai/products/humanize-ai) - Transform your AI-generated content into natural, human-like text. [![link]](https://www.humanizeai.pro/)
+- [Rephrasy](https://somi.ai/products/rephrasy) - AI-generated content to pass modern AI detectors. [![link]](https://www.rephrasy.ai/)
+- [EssayDone](https://somi.ai/products/essay-done) - Focus on your research, and EssayDone handles the writing. [![link]](https://www.essaydone.ai/)
+
+
+  ### Research
+
+  
+- [Browse AI](https://somi.ai/products/browse-ai) - Effortlessly scrape and monitor any website with no code required. [![link]](https://partners.browse.ai/somi-ai)
+- [CustomGPT.ai](https://somi.ai/products/custom-gpt-ai) -Lets you "build your own AI" with your own data! [![link]](https://customgpt.ai/?fpr=rita13)
+- [Scite](https://somi.ai/products/scite) - Revolutionizing research with smart citations. [![link]](https://scite.ai/)
+- [KeywordSearch](https://somi.ai/products/keyword-search) - Transform your advertising strategy with AI power. [![link]](https://www.keywordsearch.com/)
+- [Writer](https://somi.ai/products/writer) - Leading enterprises orchestrate AI-powered work. [![link]](https://writer.com/)
+- [PaperBrain](https://somi.ai/products/paper-brain) -Access and understand research papers with ease.  [![link]](https://www.paperbrain.org/)
+- [Upword](https://somi.ai/products/upword) -AI-powered research tool for teams that transforms content into knowledge 10x faster. [![link]](https://www.upword.ai/)
+- [Ottogrid](https://somi.ai/products/ottogrid) - Automate manual research with AI Agents. [![link]](https://ottogrid.ai/)
+- [Mindgrasp AI](https://somi.ai/products/mindgrasp-ai) - AI-powered learning assistant [![link]](https://www.mindgrasp.ai/)
