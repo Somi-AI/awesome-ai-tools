@@ -72,7 +72,24 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [AI Chatbots](#ai-chatbots)
   - [Email Marketing](#email-marketing)
   - [Presentations](#presentations)
+
+
+- [AI Text Generators](#ai-tex-generators)
+  - [Copywriting](#Copywriting)
+  - [Writing Generators](#writing-generators)
+    
+    
+- [AI Art Generators](#ai-art-generators)
+  - [ AI Characters](#ai-characters)
+  - [Avatars](#avatars)
+
+
+- [AI Data and Research](#ai-data-and-research)
+  - [Data and Analytics](#data-and-analytics)
+  - [AI Content Detectors](#ai-content-detectors)
+  - [Research](#research)
  
+
 ## AI Code Tools
 
 ### AI Coding Assistants
@@ -576,3 +593,27 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [KoalaWriter](https://somi.ai/products/koala-writer) - Create high-quality SEO-optimized articles in minutes. [![link]](https://koala.sh/?via=somi-ai)
 - [ProWritingAid](https://somi.ai/products/pro-writing-aid) - The toolkit for storytellers. [![link]](https://prowritingaid.com/)
 
+
+## AI Art Generators
+### AI Characters
+
+
+- [HeyGen](https://somi.ai/products/hey-gen) - Create custom AI videos effortlessly across multiple languages. [![link]](https://heygen.com/?sid=rewardful&via=somi-ai)
+- [Vidgenie](https://somi.ai/products/vidgenie) - AI-powered video generator for content creators. [![link]](https://vidgenie.ai/?via=somi-ai)
+- [Character AI](https://somi.ai/products/character-ai) -Creating the future of conversational AI. [![link]](https://character.ai/)
+- [Momento AI](https://somi.ai/products/momento-ai) - Create your very own AI clone. [![link]](https://www.momentoai.com/)
+- [vidBoard](https://somi.ai/products/vid-board) - AI-powered video creation platform [![link]](https://www.vidboard.ai/)
+
+
+### Avatars
+
+
+- [VEED](https://somi.ai/products/veed) - AI-powered video creation for teams. [![link]](https://veed.sjv.io/LKg163)
+- [Pippit](https://somi.ai/products/pippit) -Your smart creative agent.  [![link]](https://CapCutCreator.pxf.io/K0gGbv)
+- [Syllaby](https://somi.ai/products/syllaby) - Create, schedule, publish, and automate videos to your social media. [![link]](https://syllaby.io/?via=somi-ai)
+- [KreadoAI](https://somi.ai/products/kreado-ai) -Create stunning AI videos.  [![link]](https://www.kreadoai.com/?via=somi-ai)
+- [JoggAI](https://somi.ai/products/jogg-ai) -Create engaging videos with AI In minutes.  [![link]](https://joggpteltd.sjv.io/jeV95b)
+- [DupDub](https://somi.ai/products/dup-dub) - AI-powered creative suite for content creation. [![link]](http://www.dupdub.com/?via=somi-ai)
+- [Captions](https://somi.ai/products/captions) - Generate and edit talking videos with AI. [![link]](https://www.captions.ai/)
+- [Starry AI](https://somi.ai/products/starry-ai) -Input prompts, and watch our AI art generator effortlessly turn words into high-quality visuals. [![link]](https://starryai.com/)
+- [Colossyan](https://somi.ai/products/colossyan) - Create videos from text with AI avatars [![link]](https://www.colossyan.com/)
