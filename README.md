@@ -544,3 +544,35 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Plus AI](https://somi.ai/products/plus-ai) -Generate AI presentations and edit slides with AI.[![link]](https://www.plusdocs.com/)
 - [STORYD](https://somi.ai/products/storyd) - Create AI data presentations leaders love. [![link]](https://www.storyd.ai/)
 - [SlideTeam](https://somi.ai/products/slide-team) -Create visually stunning and engaging slides that captivate your audience.[![link]](https://www.slideteam.net/)
+
+  
+## AI Text Generators
+
+
+### Copywriting
+
+
+- [Hemingwayap](https://somi.ai/products/hemingwayap) - Simplify and clarify your writing in seconds. [![link]](https://hemingwayapp.com/?via=somi-ai)
+- [Writecrea](https://somi.ai/products/writecream) - Leverage AI to improve your copy & automate sales with little effort. [![link]](https://www.writecream.com/?gr_pk=JQRQ)
+- [AISEO](https://somi.ai/products/aiseo) - AI-powered writing assistant [![link]](https://aiseo.ai/)
+- [AdCreative.ai](https://somi.ai/products/ad-creative-ai) - Transforming advertising with AI [![link]](https://free-trial.adcreative.ai/t520pnzry39w)
+- [Hoppy Copy](https://somi.ai/products/hoppy-copy) - Email copywriting + AI advice that gets you profit, quickly. [![link]](https://www.hoppycopy.co/)
+- [unbounce](https://somi.ai/products/unbounce) - Leading landing page platform built for marketers and agencies. [![link]](https://unbounce.com/)
+- [Anyword](https://somi.ai/products/anyword) - AI performance writing platform [![link]](https://www.anyword.com/)
+- [wordhero](https://somi.ai/products/wordhero) - Generate instant blog posts with the best AI for blog writing. [![link]](https://wordhero.co/)
+
+
+### Writing Generators
+
+
+- [Quillbot](https://somi.ai/products/quillbot) -Creating a world where anyone can write without limits.  [![link]](https://try.quillbot.com/w8qj92chl3he)
+- [Keyword Insights](https://somi.ai/products/keyword-insights) - Build and own topical authority in your niche. [![link]](https://www.keywordinsights.ai/?via=somi-ai)
+- [Writesonic](https://somi.ai/products/writesonic) -Generative AI platform for Content Creation, SEO and AI Agents. [![link]](https://writesonic.com/?fpr=somi-ai)
+- [Hemingwayap](https://somi.ai/products/hemingwayap) - Simplify and clarify your writing in seconds. [![link]](https://hemingwayapp.com/?via=somi-ai)
+- [Grammarly](https://somi.ai/products/grammarly) - Good writing moves work forward. [![link]](https://www.grammarly.com/)
+- [Jasper](https://somi.ai/products/jasper) - Elevate your team, your brand, and your impact with AI that's built for marketing. [![link]](https://www.jasper.ai/)
+- [TextCortex](https://somi.ai/products/text-cortex) - Fully customizable AI assistant to empower your creativity. [![link]](https://textcortex.com/)
+- [LongShot AI](https://somi.ai/products/long-shot-ai) - AI-powered SEO solution to create content that converts [![link]](https://www.longshot.ai/)
+- [KoalaWriter](https://somi.ai/products/koala-writer) - Create high-quality SEO-optimized articles in minutes. [![link]](https://koala.sh/?via=somi-ai)
+- [ProWritingAid](https://somi.ai/products/pro-writing-aid) - The toolkit for storytellers. [![link]](https://prowritingaid.com/)
+
