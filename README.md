@@ -232,7 +232,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 ## Automation Tools
 
-
 ### Automation
 - [n8n](https://somi.ai/products/n8n) - Flexible AI workflow automation for technical teams [![link]](https://n8n.partnerlinks.io/somi-ai)
 - [Alli AI](https://somi.ai/products/alli-ai) - Optimize, automate, deploy and scale SEO. [![link]](https://try.alliai.com/somi-ai)
@@ -255,7 +254,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [DigitalOcean](https://somi.ai/products/digital-ocean) -The simplest scalable cloud.[![link]](https://www.digitalocean.com/)
   
 ## AI Business Tools
-
 
 ### Customer Support
 
@@ -403,8 +401,8 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 ## AI Video Tools
 
-
 ### Video Generators
+
 
 - [Renderforest](https://somi.ai/products/renderforest) - All your design tools in one place. [![link]](https://renderforest.pxf.io/3JYLZr)
 - [Wondershare Virbo](https://somi.ai/products/wondershare-virbo) - Custom AI avatars for every video—engage and create effortlessly. [![link]](https://wondersharesoftware.pxf.io/o4VkQe)
@@ -428,6 +426,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Descript](https://somi.ai/products/descript) - AI-powered fully featured end-to-end video editor. [![link]](https://get.descript.com/somi-ai)
 - [DupDub](https://somi.ai/products/dup-dub) - AI-powered creative suite for content creation. [![link]](http://www.dupdub.com/?via=somi-ai)
 - [Vmaker](https://somi.ai/products/vmaker) - Turn your raw videos into wow videos in minutes. [![link]](https://www.vmaker.com/)
+
 
 ### Text To Video
 
@@ -455,7 +454,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 
 ## AI Audio & Music Generators
-
 
 ### Audio Editing
 
@@ -511,7 +509,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   
 ## AI Productivity Tools
 
-
 ### Personal Assistant
 
 
@@ -565,7 +562,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   
 ## AI Text Generators
 
-
 ### Copywriting
 
 
@@ -596,7 +592,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 ## AI Art Generators
 
-
 ### AI Characters
 
 
@@ -622,7 +617,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 
 ## AI Data & Research
-
 
 ### Data & Analytics
 
