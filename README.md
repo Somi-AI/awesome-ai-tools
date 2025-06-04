@@ -484,3 +484,57 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 - [Mubert](https://somi.ai/products/mubert) -Next-gen AI-generated music for your content, powered by sound producers.[![link]](https://mubert.com/)
 - [Soundraw](https://somi.ai/products/soundraw) -Create and own infinite unique beats and BGM with AI.[![link]](https://soundraw.io/)
+
+  
+## AI Productivity Tools
+
+
+### Personal Assistant
+
+
+- [Fireflies.ai](https://somi.ai/products/fireflies-ai) - Capture, search, and share your meetings seamlessly [![link]](https://fireflies.ai/?fpr=somi-ai)
+- [ClickUp](https://somi.ai/products/click-up) - Save time with the all-in-one productivity platform [![link]](https://try.web.clickup.com/somi-ai)
+- [Gemini](https://somi.ai/products/gemini) -Gemini 2.0 is now available to everyone. [![link]](Gemini 2.0 is now available to everyone.)
+- [timeOS](https://somi.ai/products/time-os) - AI meeting & calendar assistant. [![link]](https://www.timeos.ai/)
+- [NotebookLM](https://somi.ai/products/notebook-lm) - Your personalized AI research assistant. [![link]](https://notebooklm.google/)
+- [You.com](https://somi.ai/products/you-com) - Increase productivity across your entire organization with the most accurate AI agents.[![link]](https://you.com/)
+
+  
+### AI Chatbots
+
+
+- [Cici AI](https://somi.ai/products/cici-ai) -  Your everyday AI assistant.[![link]](https://www.cici.com/)
+- [Microsoft Copilot](https://somi.ai/products/microsoft-copilot) -Your everyday AI companion. [![link]](https://copilot.microsoft.com/)
+- [Groq](https://somi.ai/products/groq) -Groq builds the world’s fastest AI inference technology.  [![link]](https://groq.com/)
+- [Perplexity](https://somi.ai/products/perplexity) -AI-powered answer engine.[![link]](https://www.perplexity.ai/)
+- [MiniMax](https://somi.ai/products/mini-max) - Our mission is to build a world where intelligence thrives with everyone [![link]](https://www.minimax.io/)
+- [Claude by Anthropic](https://somi.ai/products/claude-by-anthropic) - AI research company that builds reliable, interpretable, and steerable AI systems [![link]](https://www.anthropic.com/claude)
+- [Intercom](https://somi.ai/products/intercom) - AI-first customer service platform. [![link]](https://www.intercom.com/)
+- [Kimi AI](https://somi.ai/products/kimi-ai) - Built by moonshot AI to empower everyone to be superhuman. [![link]](https://kimi.ai/)
+- [ChatGPT by OpenAI](https://somi.ai/products/chat-gpt-by-open-ai) - ChatGPT helps you get answers, find inspiration and be more productive. [![link]](https://openai.com/chatgpt/)
+
+
+  ### Email Marketing
+
+  
+- [Warmy.io](https://somi.ai/products/warmy-io) - Auto all-in-one tool to make your email channel reliable. [![link]](https://warmyio.partnerlinks.io/somi-ai)
+- [Clean Email](https://somi.ai/products/clean-email) - Keep it free of junk and unwanted emails through automation. [![link]](https://cleanemailr.pxf.io/MAkQWY)
+- [Newsletter Pilot](https://somi.ai/products/newsletter-pilot) -Build and send newsletters on autopilot.[![link]](https://newsletterpilot.com/)
+- [GetResponse](https://somi.ai/products/get-response) - All-in-one marketing software. [![link]](https://www.getresponse.com/)
+- [Moosend](https://somi.ai/products/moosend) - Email marketing and marketing automation platform. [![link]](https://trymoo.moosend.com/1ce747exipmn)
+- [Intuit Mailchimp](https://somi.ai/products/intuit-mailchimp) -Email marketing and automations platform.[![link]](https://mailchimp.com/)
+- [Omnisend](https://somi.ai/products/omnisend) -  Create impactful campaigns, understand your customers, and automate your business.[![link]](https://your.omnisend.com/YRjYam)
+- [Campaign Monitor](https://somi.ai/products/campaign-monitor) - Get deep audience engagement with email marketing made simple. [![link]](https://www.campaignmonitor.com/)
+
+
+### Presentations
+
+
+- [Gamma](https://somi.ai/products/gamma) - A new medium for presenting ideas. [![link]](https://try.gamma.app/somi-ai)
+- [Napkin AI](https://somi.ai/products/napkin-ai) - Visual AI for business storytelling. [![link]](https://www.napkin.ai/)
+- [Visme](https://somi.ai/products/visme) - The all-in-one marketing, data viz, and design platform for your team. [![link]](https://www.visme.co/)
+- [Tome](https://somi.ai/products/tome) - AI assistant for enterprise sellers, starting with automated account research [![link]](https://tome.app/)
+- [SlidesAI](https://somi.ai/products/slides-ai) - AI-powered text-to-presentation. [![link]](https://www.slidesai.io/)
+- [Plus AI](https://somi.ai/products/plus-ai) -Generate AI presentations and edit slides with AI.[![link]](https://www.plusdocs.com/)
+- [STORYD](https://somi.ai/products/storyd) - Create AI data presentations leaders love. [![link]](https://www.storyd.ai/)
+- [SlideTeam](https://somi.ai/products/slide-team) -Create visually stunning and engaging slides that captivate your audience.[![link]](https://www.slideteam.net/)
