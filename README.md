@@ -6,15 +6,18 @@
 A curated list of the best generative AI tools, large language models (LLMs), and automation products.
 
 Whether you're a developer, founder, creator, or just curious about what's possible with AI, this list is for you.
+
 Our goal is to help you discover powerful tools to boost productivity, streamline workflows, and unlock new possibilities.
 
 📬 Stay Updated
+
 We share regular updates in the [Somi AI Newsletter](https://somi.ai/newsletter) — subscribe to get the latest AI news and discover the top tools making waves.
 
 🧠 Know a Great AI Tool?
-Building or using something amazing in AI?
-👉 Submit it  [Somi AI](https://somi.ai/) or drop it in the comments!
 
+Building or using something amazing in AI?
+
+👉 Submit it  [Somi AI](https://somi.ai/) or drop it in the comments!
 
 Let me know if you'd like to include categories (e.g. Text Generation, Audio Tools, AI Agents), badges, or submission guidelines.
 
