@@ -25,7 +25,7 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [SQL](#sql)
   - [API Platform](#api-platform)
   - [No Code/Low Code](#no-code-low-code)
-  - [Website and Design](#websites-and-design)
+  - [Website and Design](#Websit-and-Design)
   - [AI Code Review Tools](#ai-code-review-tools)
 
 - [AI Business Tools](#ai-business-tools)
