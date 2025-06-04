@@ -628,8 +628,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Future AGI](https://somi.ai/products/future-agi) -Build Trustworthy AI 10x Faster. [![link]](https://futureagi.com/)
 - [Windsor.ai](https://somi.ai/products/windsor-ai) - Connecting all your data. [![link]](https://windsor.ai/)
 
-
-  ### AI Content Detectors
+### AI Content Detectors
 
   
 - [HIX.AI](https://somi.ai/products/hix-ai) - All-In-one AI writing cop [![link]](https://hix.ai/)
@@ -641,7 +640,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [EssayDone](https://somi.ai/products/essay-done) - Focus on your research, and EssayDone handles the writing. [![link]](https://www.essaydone.ai/)
 
 
-  ### Research
+### Research
 
   
 - [Browse AI](https://somi.ai/products/browse-ai) - Effortlessly scrape and monitor any website with no code required. [![link]](https://partners.browse.ai/somi-ai)
