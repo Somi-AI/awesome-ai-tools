@@ -25,8 +25,14 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [SQL](#sql)
   - [API Platform](#api-platform)
   - [No Code/Low Code](#no-code-low-code)
-  - [Website and Design](#Websit-and-Design)
+  - [Website and Design](#website-and-design)
   - [AI Code Review Tools](#ai-code-review-tools)
+ 
+
+- [Automation Tools](#automation-tools)
+  - [Automation](#automation)
+  - [AI Agents](#ai-agents) 
+
 
 - [AI Business Tools](#ai-business-tools)
   - [Customer Support](#customer-support)
@@ -200,6 +206,31 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [Bito AI](https://somi.ai/products/bito) - Ship clean code the first time. [![link]](https://bito.ai/)
 - [Metabob](https://somi.ai/products/metabob) - AI-assisted tool revolutionizing static code analysis. [![link]](https://metabob.com/)
 
+
+## Automation Tools
+
+
+### Automation
+- [n8n](https://somi.ai/products/n8n) - Flexible AI workflow automation for technical teams [![link]](https://n8n.partnerlinks.io/somi-ai)
+- [Alli AI](https://somi.ai/products/alli-ai) - Optimize, automate, deploy and scale SEO. [![link]](https://try.alliai.com/somi-ai)
+- [Motion](https://somi.ai/products/motion) - Automate task planning and project management. [![link]](https://www.usemotion.com/)
+- [Albato](https://somi.ai/products/albato) - No matter the process. Automate it with no-code.[![link]](https://albato.com/)
+- [Helicone AI](https://somi.ai/products/helicone-ai) - Open-source LLM observability for developers. [![link]](https://www.helicone.ai/)
+- [Activepieces](https://somi.ai/products/activepieces) - Open source business automation software [![link]](https://www.activepieces.com/)
+
+
+### AI Agents
+
+
+- [Snowfire AI](https://somi.ai/products/snowfire-ai) - The data platform for AI-enabled executives. [![link]](https://partners.snowfire.ai/somi-ai)
+- [Alli AI](https://somi.ai/products/alli-ai) - Optimize, automate, deploy and scale SEO. [![link]](https://try.alliai.com/somi-ai)
+- [CustomGPT.ai](https://somi.ai/products/custom-gpt-ai) - Let's you "build your own AI" with your own data! [![link]](https://customgpt.ai/?fpr=rita13)
+- [Wati](https://somi.ai/products/wati) - AI support agent.[![link]](https://affiliates.wati.io/somi-ai)
+- [Letta](https://somi.ai/products/letta) - Build and deploy AI agents that learn.[![link]](https://www.letta.com/)
+- [Firebase](https://somi.ai/products/firebase) - An app development platform backed by Google [![link]](https://firebase.studio/)
+- [Ottogrid](https://somi.ai/products/ottogrid) - Automate manual research with AI Agents. [![link]](https://ottogrid.ai/)
+- [DigitalOcean](https://somi.ai/products/digital-ocean) -The simplest scalable cloud.[![link]](https://www.digitalocean.com/)
+  
 ## AI Business Tools
 
 
