@@ -29,14 +29,13 @@ Let’s build a resource that empowers the community to make smarter, faster, an
   - [AI Code Review Tools](#ai-code-review-tools)
 
 - [AI Business Tools](#ai-business-tools)
-  - [AI Finance](#ai-finance)
-  - [AI Customer Support](#ai-customer-support)
-  - [AI SEO Tools](#ai-seo-tools)
-  - [AI Human Resources](#ai-human-resources)
-  - [AI Marketing Tools](#ai-marketing-tools)
-  - [AI Project Management](#ai-project-management)
-  - [AI Social Media](#ai-social-media)
-  - [AI Real Estate](#ai-real-estate)
+  - [Customer Support](#customer-support)
+  - [SEO Tools](#seo-tools)
+  - [Human Resources](#human-resources)
+  - [Marketing Tools](#marketing-tools)
+  - [E-commerce](#E-commerce)
+  - [Social Media](#social-media)
+  
 
 
 - [AI Image Tools](#ai-image-tools)
@@ -195,8 +194,6 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 
 ## AI Business Tools
 
-### Finance
-
 
 ### Customer Support
 
@@ -247,8 +244,14 @@ Let’s build a resource that empowers the community to make smarter, faster, an
 - [klaviyo](https://somi.ai/products/klaviyo) -The only CRM built for B2C.[![link]](https://www.klaviyo.com/)
 
   
-### Project Management
+### E-commerce
 
+
+- [Debutify](https://somi.ai/products/debutify) - All in one Shopify & E-commerce solution. [![link]](https://debutify.sjv.io/xLOxMy)
+- [Omnisend](https://somi.ai/products/omnisend) - Create impactful campaigns, understand your customers, and automate your business. [![link]](https://your.omnisend.com/YRjYam)
+- [Aidelly](https://somi.ai/products/aidelly) -All-in-one AI-powered marketing assistant.[![link]](https://aidelly.ai/?r=WekXleg0jpcJ)
+- [Tidio](https://somi.ai/products/tidio) -AI-powered customer service management platform.[![link]](https://www.tidio.com/)
+- [ZipChat AI](https://somi.ai/products/zip-chat-ai) - AI agent for e-commerce. [![link]](https://zipchat.ai/)
 
 
 ### Social Media
