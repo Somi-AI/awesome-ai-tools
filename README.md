@@ -4,9 +4,7 @@
 
 
 A curated list of the best generative AI tools, large language models (LLMs), and automation products.
-
 Whether you're a developer, founder, creator, or just curious about what's possible with AI, this list is for you.
-
 Our goal is to help you discover powerful tools to boost productivity, streamline workflows, and unlock new possibilities.
 
 📬 Stay Updated
