@@ -278,6 +278,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [lindo.ai](https://somi.ai/products/lindo-ai) - AI agent website builder. [![link]](https://al.lindoai.com/PEuAJy4bY90n)
 - [Alli AI](https://somi.ai/products/alli-ai) - Optimize, automate, deploy and scale SEO. [![link]](https://try.alliai.com/somi-ai)
 - [SE Ranking](https://somi.ai/products/se-ranking) - Building a powerful, intuitive SEO platform.[![link]](https://seranking.com/)
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin with 9 SEO and Google Ads skills for audits, schema markup, bid updates, and CMS publishing.
 - [Ubersuggest](https://somi.ai/products/ubersuggest) -All-In-one tool that makes SEO easy.[![link]](https://neilpatel.com/ubersuggest/)
 - [Surfer](https://somi.ai/products/surfer) - Boost organic traffic, improve rankings, and grow your business. [![link]](https://surferseo.com/)
 - [Semrush](https://somi.ai/products/semrush) -Handle SEO, marketing, PPC, and social media from one platform [![link]](https://www.semrush.com/)
