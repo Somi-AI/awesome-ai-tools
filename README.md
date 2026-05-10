@@ -306,6 +306,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [kit](https://somi.ai/products/kit) - The email-first operating system for creators who mean business. [![link]](https://kit.com/)
 - [beehiiv](https://somi.ai/products/beehiiv) - Launch, scale, and monetize your newsletter with a publishing platform built for growth. [![link]](https://www.beehiiv.com/)
 - [klaviyo](https://somi.ai/products/klaviyo) -The only CRM built for B2C.[![link]](https://www.klaviyo.com/)
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
   
 ### E-commerce
