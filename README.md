@@ -538,6 +538,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Intercom](https://somi.ai/products/intercom) - AI-first customer service platform. [![link]](https://www.intercom.com/)
 - [Kimi AI](https://somi.ai/products/kimi-ai) - Built by moonshot AI to empower everyone to be superhuman. [![link]](https://kimi.ai/)
 - [ChatGPT by OpenAI](https://somi.ai/products/chat-gpt-by-open-ai) - ChatGPT helps you get answers, find inspiration and be more productive. [![link]](https://openai.com/chatgpt/)
+- [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser workspace for GPT, Gemini, and Grok chat plus image generation. Account required; free tier limited to 10 requests per day.
 
 
 ### Email Marketing
