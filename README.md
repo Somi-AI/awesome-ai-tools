@@ -286,6 +286,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 
 
 ### Human Resources
+- [AI at Work](https://aiatwork-two.vercel.app) - Guides on using AI tools for careers and workplace productivity
 
 
 - [Careerflow.ai](https://somi.ai/products/careerflow-ai) - Simplify your career journey with our career copilot. [![link]](https://careerflow.ai/premium?via=somi-ai)
