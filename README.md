@@ -135,6 +135,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 ### Developer Tools
 
 
+- [Agent QA](https://github.com/vostride/agent-qa) - FSL source-available harness for defining, running, and triaging natural-language web and mobile tests; configured providers may charge separately.
 - [Hugging Face](https://somi.ai/products/hugging-face) - The AI community is building the future. [![link]](https://huggingface.co/)
 - [Tabnine](https://somi.ai/products/tabnine) -Empowering software developers with AI for code. [![link]](https://www.tabnine.com/)
 - [Create](https://somi.ai/products/create) - Turn your words into sites, prototypes, and AI tools [![link]](https://www.create.xyz/)
