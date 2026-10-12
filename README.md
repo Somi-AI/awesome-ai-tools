@@ -295,6 +295,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Resume Genius](https://somi.ai/products/resume-genius) -  Make your professional resume in minutes.[![link]](https://resumegenius.com/)
 - [resume.io](https://somi.ai/products/resume-io) -Create amazing professional resumes in minutes. [![link]](https://resume.io/)
 - [Kickresume](https://somi.ai/products/kickresume) - Let AI write your resume and cover letter in seconds. [![link]](https://www.kickresume.com)
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker + AI resume builder; open State of ATS 2026 (738/704, Workday 37.9%). [![link]](https://withresumeai.com/)
 
 
 ### Marketing Tools
