@@ -465,6 +465,8 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 
 ### Audio Editing
 
+- [QuietTake](https://noiseremover.site/) - Free browser-local RNNoise speech-noise cleanup, original/cleaned comparison and mono WAV export; up to 50 MB and five minutes per file, without signup or audio upload.
+
 
 - [Castmagic](https://somi.ai/products/castmagic) - Turn media into social posts, blogs, newsletters, meeting notes like magic [![link]](https://get.castmagic.io/somi-ai)
 - [Suno](https://somi.ai/products/suno) - Make any song you can imagine. [![link]](https://suno.com/)
