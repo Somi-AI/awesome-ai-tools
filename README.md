@@ -175,6 +175,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Kong Inc.](https://somi.ai/products/kong-inc) - Powering the API world. [![link]](https://konghq.com/)
 - [MuleSoft](https://somi.ai/products/mule-soft) -AI-powered experiences start with integration and automation. [![link]](https://www.mulesoft.com/)
 - [Workato](https://somi.ai/products/workato) - One platform for intelligent integration & workflow automation across your organization. [![link]](https://www.workato.com/)
+- [looot](https://looot.ai) - Business data API and hosted MCP server for AI agents: people and company enrichment, work emails, SERP and web search. Prepaid, paid per call.
 
 
 ### No Code/Low Code
