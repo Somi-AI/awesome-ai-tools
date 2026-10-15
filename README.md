@@ -97,6 +97,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 ## AI Code Tools
 
 ### AI Coding Assistants
+- [yylo](https://github.com/yylo-dev/yylo) - MIT-licensed coding-agent orchestration CLI for planning, running, and merging agent tasks across harnesses like Claude Code, Codex CLI, and Pi.
 - [CodeRabbit](https://somi.ai/products/code-rabbit) - Supercharge your dev team with AI code reviews. [![link]](https://www.coderabbit.ai/)
 - [CodeGeeX](https://somi.ai/products/code-gee-x) - AI Assistant for developers. [![link]](https://codegeex.cn/en-US)
 - [JetBrains](https://somi.ai/products/jet-brains) - The world's leading provider of professional development tools. [![link]](https://www.jetbrains.com/)
