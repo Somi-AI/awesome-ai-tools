@@ -662,3 +662,4 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Ottogrid](https://somi.ai/products/ottogrid) - Automate manual research with AI Agents. [![link]](https://ottogrid.ai/)
 - [Mindgrasp AI](https://somi.ai/products/mindgrasp-ai) - AI-powered learning assistant [![link]](https://www.mindgrasp.ai/)
 - [Pulse](https://pulsecorp.co) - AI-moderated customer interviews for market research. [![link]](https://pulsecorp.co)
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform that looks for disconfirming evidence before you form conviction.
