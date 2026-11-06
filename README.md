@@ -612,6 +612,9 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 
 - [HeyGen](https://somi.ai/products/hey-gen) - Create custom AI videos effortlessly across multiple languages. [![link]](https://heygen.com/?sid=rewardful&via=somi-ai)
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (Free Trial). Not affiliated with xAI/X. [![link]](https://grokvideogenerator.dev)
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 - [Vidgenie](https://somi.ai/products/vidgenie) - AI-powered video generator for content creators. [![link]](https://vidgenie.ai/?via=somi-ai)
 - [Character AI](https://somi.ai/products/character-ai) -Creating the future of conversational AI. [![link]](https://character.ai/)
 - [Momento AI](https://somi.ai/products/momento-ai) - Create your very own AI clone. [![link]](https://www.momentoai.com/)
