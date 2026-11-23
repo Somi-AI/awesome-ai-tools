@@ -424,6 +424,8 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Genmo AI](https://somi.ai/products/genmo-ai) - Turn text or images into dynamic visuals. [![link]](https://www.genmo.ai/)
 
 
+- [Vidney](https://vidney.ai/): Browser workspace for text-to-video, image-to-video and pet-photo video effects, using shared credits and paid plans.
+
 ### Video Editors
 
 
