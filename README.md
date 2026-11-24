@@ -523,6 +523,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 
   
 ## AI Productivity Tools
+- [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) - Free Chrome and Edge extension for continuing ChatGPT replies after a configurable delay, with per-tab controls and context handoff.
 
 ### Personal Assistant
 
